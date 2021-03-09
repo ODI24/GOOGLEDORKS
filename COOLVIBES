@@ -1,0 +1,1530 @@
+
+░██████╗░░█████╗░░█████╗░░██████╗░██╗░░░░░███████╗  ██████╗░░█████╗░██████╗░██╗░░██╗░██████╗
+██╔════╝░██╔══██╗██╔══██╗██╔════╝░██║░░░░░██╔════╝  ██╔══██╗██╔══██╗██╔══██╗██║░██╔╝██╔════╝
+██║░░██╗░██║░░██║██║░░██║██║░░██╗░██║░░░░░█████╗░░  ██║░░██║██║░░██║██████╔╝█████═╝░╚█████╗░
+██║░░╚██╗██║░░██║██║░░██║██║░░╚██╗██║░░░░░██╔══╝░░  ██║░░██║██║░░██║██╔══██╗██╔═██╗░░╚═══██╗
+╚██████╔╝╚█████╔╝╚█████╔╝╚██████╔╝███████╗███████╗  ██████╔╝╚█████╔╝██║░░██║██║░╚██╗██████╔╝
+░╚═════╝░░╚════╝░░╚════╝░░╚═════╝░╚══════╝╚══════╝  ╚═════╝░░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░
+
+---------------------------------------------------------------------------------------------
+
+
+2021-03-05	site:*.herokuapp.com intitle:login	Pages Containing Login Portals	higormelga
+2021-03-05	inurl:/dana-na/auth/url_default/welcome.cgi "VPN"	Pages Containing Login Portals	Alexandros Pappas
+2021-03-03	intitle:"Advanced Setup - Security - Admin User Name & Password"	Various Online Devices	Alexandros Pappas
+2021-03-03	intitle:"Remote UI: Login:" "System Manager ID:"	Various Online Devices	Alexandros Pappas
+2021-03-03	intitle:"Blue Iris Login"	Pages Containing Login Portals	Alexandros Pappas
+2021-03-03	intitle:"index of" "secret.yaml"	Files Containing Juicy Info	Vladimir Remenar
+2021-03-03	intitle:"Nordex Control" + "Wind Farm Total Summary"	Various Online Devices	Alexandros Pappas
+2021-03-03	inurl:/main/main.html "Administrator Settings"	Various Online Devices	Alexandros Pappas
+2021-03-03	site:*.*/level/15/exec/-/ "Exec Configure"	Various Online Devices	Alexandros Pappas
+2021-03-03	intitle:"Keenetic Web"	Various Online Devices	Alexandros Pappas
+2021-03-01	inurl:/calendar/calendar_form.php	Advisories and Vulnerabilities	Alexandros Pappas
+2021-03-01	intitle:"Total Web Solutions" + "Meter Name"	Various Online Devices	Alexandros Pappas
+2021-03-01	"Copyright(C) CONTEC CO.LTD"	Various Online Devices	js-on
+2021-02-25	intitle:"index of" "application-users.properties" | "mgmt-users.properties" | "*standalone.xml"	Files Containing Passwords	Alexandros Pappas
+2021-02-25	intitle:"PowerLogic ION" + "Control" + "Diagnostic" + "Home" + "Maintenance" + "Monitoring"	Various Online Devices	Alexandros Pappas
+2021-02-25	intitle:("WebRTU z2" | "WebRTU z1") -pdf	Various Online Devices	Alexandros Pappas
+2021-02-25	intitle:("OnCell Web Console" | "Series Web Console" | "-HSPA Series Web" | "-HSDPA Series Web") "MOXA OnCell" "Username :" "Password :" -pdf	Various Online Devices	Alexandros Pappas
+2021-02-25	"public $user =" | "public $password = " | "public $secret =" | "public $db =" ext:txt | ext:log -git	Files Containing Passwords	Alexandros Pappas
+2021-02-23	site:*.com inurl:axis2-admin	Pages Containing Login Portals	Axel Meneses
+2021-02-23	"Powered By Best Support System"	Advisories and Vulnerabilities	Alexandros Pappas
+2021-02-22	inurl:"dcwp_twitter.php"	Files Containing Juicy Info	Alfie
+2021-02-17	"Username" "Password" "Please login to continue" intitle:"F670"	Pages Containing Login Portals	J. Igor Melo
+2021-02-17	Copyright Huawei Technologies co. Ltd "Account" "Password" -site:huawei.com	Pages Containing Login Portals	Amin Seifi
+2021-02-16	inurl:simplesaml/module	Pages Containing Login Portals	Javier Bernardo
+2021-02-16	intitle:"Intelbras" inurl:cgi-bin/firmware.cgi?formNumber=200	Various Online Devices	J. Igor Melo
+2021-02-16	inurl:ushell/shells/abap	Pages Containing Login Portals	Javier Bernardo
+2021-02-16	inurl:ui/login intitle:jfrog	Pages Containing Login Portals	Javier Bernardo
+2021-02-16	"Username" "Password" "Please login to continue" intitle:"F660"	Pages Containing Login Portals	J. Igor Melo
+2021-02-16	inurl:ejbexplorer	Pages Containing Login Portals	Javier Bernardo
+2021-02-16	intitle:"ZXHN H108N" intext:"Welcome to ZXHN H108N"	Pages Containing Login Portals	J. Igor Melo
+2021-02-16	intitle:"oracle business intelligence sign in"	Pages Containing Login Portals	Alfie
+2021-02-16	intitle:"WEB LCT" intext:"Web local craft terminal"	Pages Containing Login Portals	J. Igor Melo
+2021-02-11	inurl:"portal.mwsl" "Status"	Various Online Devices	Alexandros Pappas
+2021-02-11	inurl:ext/pwdreset	Pages Containing Login Portals	Javier Bernardo
+2021-02-11	intitle:"Radius Manager" intext:"Control Panel"	Pages Containing Login Portals	Kike Fontan
+2021-02-11	inurl:login.html intitle:"GPON Home Gateway"	Various Online Devices	J. Igor Melo
+2021-02-11	"-----BEGIN EC PRIVATE KEY-----" | " -----BEGIN EC PARAMETERS-----" ext:pem | ext:key | ext:txt	Sensitive Directories	Alexandros Pappas
+2021-02-11	"-----BEGIN PGP PRIVATE KEY BLOCK-----" ext:pem | ext:key | ext:txt -git	Sensitive Directories	Alexandros Pappas
+2021-02-08	intitle:"D-LINK SYSTEMS, INC. | WIRELESS ROUTER | HOME" inurl:"status.php"	Pages Containing Login Portals	J. Igor Melo
+2021-02-08	intitle:"D-LINK SYSTEMS, INC. | Web File Access : Login"	Various Online Devices	J. Igor Melo
+2021-02-08	intitle:"IP Webcam" inurl:"/greet.html"	Various Online Devices	J. Igor Melo
+2021-02-08	inurl:tcpconfig.html	Sensitive Directories	Prasad Lingamaiah
+2021-02-08	inurl:index.php?s=/Admin/Public/login.html	Pages Containing Login Portals	J. Igor Melo
+2021-02-08	"Account" "Password" "All rights reserved" intitle:"HG8245"	Various Online Devices	J. Igor Melo
+2021-02-05	intitle:"Cisco Email Security Virtual Appliance" inurl:csrfkey=	Pages Containing Login Portals	Alexandros Pappas
+2021-02-05	inurl:/uploads/affwp-debug.log	Web Server Detection	Ritesh Gohil
+2021-02-05	inurl:"/wp-content/plugins/super-forms/"	Advisories and Vulnerabilities	Alexandros Pappas
+2021-02-05	inurl:login.html intitle:"Archer C7"	Various Online Devices	J. Igor Melo
+2021-02-04	inurl:uno.php	Advisories and Vulnerabilities	Alexandros Pappas
+2021-02-01	intitle:"index of" "application.properties"	Files Containing Juicy Info	Parth Shukla
+2021-02-01	inurl:"/console/login/LoginForm.jsp"	Advisories and Vulnerabilities	Alexandros Pappas
+2021-02-01	intitle:"phpLDAPadmin" inurl:cmd.php	Pages Containing Login Portals	Ambadi MP
+2021-02-01	inurl:dtm.html intitle:1747-L551	Various Online Devices	Alexandros Pappas
+2021-02-01	inurl:/certs/server.key	Sensitive Directories	Pratik Khalane
+2021-02-01	site:*/dyn_sensors.htm "ID"	Various Online Devices	Alexandros Pappas
+2021-02-01	intitle:"iLO: localhost" + "Firmware Version"	Pages Containing Login Portals	Alexandros Pappas
+2021-02-01	inurl:print.htm intext:"Domain Name:" + "Open printable report"	Sensitive Directories	Alexandros Pappas
+2021-02-01	"cpanel username" "cpanel password" ext:txt	Files Containing Passwords	J. Igor Melo
+2021-01-26	inurl:jasperserver-pro/login.html	Pages Containing Login Portals	Ali Hassam
+2021-01-26	inurl:?XDEBUG_SESSION_START=phpstorm	Web Server Detection	Lutzenfried
+2021-01-26	ext:(doc | pdf | xls | txt |) (intext:confidential salary) inurl:confidential	Files Containing Juicy Info	Naved Shaikh
+2021-01-26	"insert into users" "VALUES" ext:sql | ext:txt | ext:log | ext:env	Files Containing Passwords	Alexandros Pappas
+2021-01-22	"password 7" ext:txt | ext:log | ext:cfg	Files Containing Passwords	Alexandros Pappas
+2021-01-22	"machform" inurl:"view.php"	Advisories and Vulnerabilities	Alexandros Pappas
+2021-01-19	intitle:final.attendee.list | inurl:final.attendee.list	Files Containing Juicy Info	Alexandros Pappas
+2021-01-19	inurl:/jsps/testoperation.jsp "Test Operation"	Sensitive Directories	Alexandros Pappas
+2021-01-19	ext:xlsx inurl:database	Files Containing Juicy Info	Raj Zamal
+2021-01-19	intitle:"index of" "idx_config"	Files Containing Passwords	Alexandros Pappas
+2021-01-19	filetype:log inurl:paypal	Files Containing Juicy Info	Hank Fordham
+2021-01-15	inurl:/Jview "zoom"	Various Online Devices	Sanu Jose M
+2021-01-15	inurl:/config/device/wcd	Web Server Detection	Javier Bernardo
+2021-01-15	site:p2.*.* intitle:"login"	Pages Containing Login Portals	Reza Abasi
+2021-01-07	inurl:weblogin intitle:("USG20-VPN"|"USG20W-VPN"|USG40|USG40W|USG60|USG60W|USG110|USG210|USG310|USG1100|USG1900|USG2200|"ZyWALL110"|"ZyWALL310"|"ZyWALL1100"|ATP100|ATP100W|ATP200|ATP500|ATP700|ATP800|VPN50|VPN100|VPN300|VPN000|"FLEX")	Pages Containing Login Portals	Javier Bernardo
+2021-01-07	intext:"Incom CMS 2.0"	Advisories and Vulnerabilities	Alexandros Pappas
+2021-01-07	intitle:"index of" intext:"apikey.txt	Files Containing Juicy Info	Mohammed Saneem
+2021-01-07	inurl:"/phpmyadmin/user_password.php	Web Server Detection	Mukul Trivedi
+2021-01-07	inurl:oidc/authorize	Pages Containing Login Portals	Javier Bernardo
+2021-01-07	intitle:Login intext:HIKVISION inurl:login.asp?	Pages Containing Login Portals	Nicholas Doropoulos
+2021-01-07	inurl:authorization.ping	Pages Containing Login Portals	Sunil Singh
+2021-01-07	allintext:@gmail.com filetype:log	Files Containing Juicy Info	Rushabh Doshi
+2021-01-07	inurl:https://trello.com AND intext:@gmail.com AND intext:password	Files Containing Juicy Info	Rushabh Doshi
+2021-01-05	inurl:idp/Authn/UserPassword	Pages Containing Login Portals	Javier Bernardo
+2021-01-05	site:ftp.*.*.* "ComputerName=" + "[Unattended] UnattendMode"	Files Containing Juicy Info	Alexandros Pappas
+2021-01-05	intitle:"Humatrix 8"	Pages Containing Login Portals	idealphase
+2021-01-05	AXIS Camera exploit	Various Online Devices	RedHackBro
+2021-01-05	intitle:"Exchange Log In"	Pages Containing Login Portals	Saleh Al Zadjali
+2021-01-05	inurl:/xprober ext:php	Web Server Detection	Pratik Khalane
+2021-01-05	inurl:/wp-content/themes/altair/	Advisories and Vulnerabilities	ANURAG K P
+2021-01-05	inurl:/pro_users/login	Advisories and Vulnerabilities	Alexandros Pappas
+2021-01-05	inurl:/cgi-bin/manlist?section	Advisories and Vulnerabilities	Alexandros Pappas
+2021-01-05	intitle:"index of" "*Maildir/new"	Sensitive Directories	Alexandros Pappas
+2021-01-05	inurl:"/php/info.php" "PHP Version"	Files Containing Juicy Info	Alexandros Pappas
+2021-01-05	intext:"SonarQube" + "by SonarSource SA." + "LGPL v3"	Web Server Detection	Paulo Gualter
+2021-01-05	inurl:adfs inurl:wctx inurl:wtrealm -microsoft.com	Pages Containing Login Portals	Piyush Patil
+2020-12-15	intitle:("Index of" AND "wp-content/plugins/boldgrid-backup/=")	Sensitive Directories	Alexandros Pappas
+2020-12-15	intext:"user name" intext:"orion core" -solarwinds.com	Vulnerable Servers	Juan Christian
+2020-12-11	"mailer_password:" + "mailer_host:" + "mailer_user:" + "secret:" ext:yml	Files Containing Passwords	Alexandros Pappas
+2020-12-11	inurl:nidp/idff/sso	Pages Containing Login Portals	Javier Bernardo
+2020-12-11	"-- Dumped from database version" + "-- Dumped by pg_dump version" ext:txt | ext:sql | ext:env | ext:log	Sensitive Directories	Alexandros Pappas
+2020-12-11	inurl:idp/prp.wsf	Pages Containing Login Portals	Javier Bernardo
+2020-12-07	intitle:"NetCamXL*"	Various Online Devices	Sanu Jose M
+2020-12-07	intitle:"web client: login"	Pages Containing Login Portals	Sanu Jose M
+2020-12-07	/etc/config + "index of /" /	Sensitive Directories	Manish Solanki
+2020-12-07	"Powered by vBulletin(R) Version 5.6.3"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-12-07	"The SQL command completed successfully." ext:txt | ext:log	Files Containing Juicy Info	Alexandros Pappas
+2020-12-07	inurl:Sitefinity/Authenticate/SWT	Pages Containing Login Portals	Javier Bernardo
+2020-12-07	ext:yml | ext:txt | ext:env "Database Connection Information Database server ="	Files Containing Juicy Info	Alexandros Pappas
+2020-12-07	intext:construct('mysql:host	Files Containing Passwords	Javier Bernardo
+2020-12-07	"System" + "Toner" + "Input Tray" + "Output Tray" inurl:cgi	Various Online Devices	Alexandros Pappas
+2020-12-07	intitle:"NetCamSC*"	Various Online Devices	Sanu Jose M
+2020-12-04	intitle:"Agent web client: Phone Login"	Various Online Devices	Alexandros Pappas
+2020-12-01	"keystorePass=" ext:xml | ext:txt -git -gitlab	Files Containing Passwords	Alexandros Pappas
+2020-12-01	intitle:"index of" "db.properties" | "db.properties.BAK"	Files Containing Usernames	Alexandros Pappas
+2020-12-01	intext:"Connection" AND "Network name" AND " Cisco Meraki cloud" AND "Security Appliance details"	Various Online Devices	Prasad Lingamaiah
+2020-12-01	inurl: inurl:"view.shtml" ext:shtml	Various Online Devices	ANURAG K P
+2020-12-01	/etc/certs + "index of /" */*	Sensitive Directories	Abishekraghav Murugeashan
+2020-12-01	"define('SECURE_AUTH_KEY'" + "define('LOGGED_IN_KEY'" + "define('NONCE_KEY'" ext:txt | ext:cfg | ext:env | ext:ini	Files Containing Passwords	Alexandros Pappas
+2020-12-01	site:password.*.* intitle:"login"	Pages Containing Login Portals	Reza Abasi
+2020-12-01	site:checkin.*.* intitle:"login"	Pages Containing Login Portals	Reza Abasi
+2020-12-01	"change the Administrator Password." intitle:"HP LaserJet" -pdf	Various Online Devices	Alexandros Pappas
+2020-12-01	"define('SECURE_AUTH_KEY'" + "define('LOGGED_IN_KEY'" + "define('NONCE_KEY'" ext:txt | ext:cfg | ext:env | ext:ini	Files Containing Passwords	Alexandros Pappas
+2020-11-24	intitle:"Insurance Admin Login" | "(c) Copyright 2020 Cityline Websites. All Rights Reserved." | "http://www.citylinewebsites.com"	Pages Containing Login Portals	Aydın Baran Ertemir
+2020-11-24	site:user.*.* intitle:"login"	Pages Containing Login Portals	Reza Abasi
+2020-11-24	ext:txt | ext:log | ext:cfg "Building configuration..."	Files Containing Juicy Info	Alexandros Pappas
+2020-11-24	inurl:"view.shtml" "Network"	Various Online Devices	Sanu Jose M
+2020-11-24	intitle:"index of" intext:"web.xml"	Files Containing Juicy Info	stmxcsr
+2020-11-24	intitle:"Please Login" "Use FTM Push"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-11-24	site:portal.*.* intitle:"login"	Pages Containing Login Portals	Reza Abasi
+2020-11-24	intitle:"irz" "router" intext:login gsm info -site:*.com -site:*.net	Pages Containing Login Portals	Diego Gonzalez
+2020-11-24	inurl:"view.shtml" "camera"	Various Online Devices	Sanu Jose M
+2020-11-24	ext:php intitle:phpinfo "published by the PHP Group"	Files Containing Juicy Info	ANURAG K P
+2020-11-24	"define('DB_USER'," + "define('DB_PASSWORD'," ext:txt	Files Containing Passwords	Alexandros Pappas
+2020-11-24	inurl:"/cgi-bin/guestimage.html" "Menu"	Various Online Devices	Alexandros Pappas
+2020-11-24	intext:"Healthy" + "Product model" + " Client IP" + "Ethernet"	Web Server Detection	Alexandros Pappas
+2020-11-24	intitle:"index of" "anaconda-ks.cfg" | "anaconda-ks-new.cfg"	Files Containing Passwords	Alexandros Pappas
+2020-11-24	intitle:"index of" "dump.sql"	Sensitive Directories	Alexandros Pappas
+2020-11-24	intitle:"index of" inurl:admin/download	Sensitive Directories	Aydın Baran Ertemir
+2020-11-24	"putty.log" ext:log | ext:cfg | ext:txt | ext:sql | ext:env	Files Containing Juicy Info	Sanu Jose M
+2020-11-19	ext:sql | ext:txt intext:"-- phpMyAdmin SQL Dump --" + intext:"admin"	Files Containing Juicy Info	Alexandros Pappas
+2020-11-19	intitle:"index of" "credentials.xml" | "credentials.inc" | "credentials.txt"	Files Containing Usernames	Alexandros Pappas
+2020-11-17	inurl:opac_css	Advisories and Vulnerabilities	Alexandros Pappas
+2020-11-17	inurl:/?op=register	Pages Containing Login Portals	Sanu Jose M
+2020-11-17	"'dsn: mysql:host=localhost;dbname=" ext:yml | ext:txt "password:"	Files Containing Usernames	Alexandros Pappas
+2020-11-17	intitle:"index of" "*.cert.pem" | "*.key.pem"	Sensitive Directories	Alexandros Pappas
+2020-11-17	"secret_key_base:" ext:exs | ext:txt | ext:env | ext:cfg	Files Containing Juicy Info	Alexandros Pappas
+2020-11-17	inurl:/adfs/oauth2/authorize	Pages Containing Login Portals	Javier Bernardo
+2020-11-17	"index of" inurl:database ext:sql | xls | xml | json | csv	Sensitive Directories	Yogender Singh
+2020-11-17	ssh_host_dsa_key.pub + ssh_host_key + ssh_config = "index of / "	Sensitive Directories	Abishekraghav Murugeashan
+2020-11-17	jdbc:sqlserver://localhost:1433 + username + password ext:yml | ext:java	Files Containing Usernames	Alexandros Pappas
+2020-11-17	intitle:"index of" "password.yml	Files Containing Usernames	Sanu Jose M
+2020-11-17	inurl:RichWidgets/Popup_Upload.aspx	Vulnerable Servers	Bryan Rodriguez Martin
+2020-11-17	inurl:"servicedesk/customer/user/login"	Pages Containing Login Portals	Alexandros Pappas
+2020-11-17	inurl:/Jview.htm + "View Video - Java Mode"	Various Online Devices	Alexandros Pappas
+2020-11-17	intitle:"Xenmobile Console Logon"	Pages Containing Login Portals	Javier Bernardo
+2020-11-17	inurl:login.seam	Pages Containing Login Portals	Javier Bernardo
+2020-11-16	inurl:"/?q=user/password/"	Pages Containing Login Portals	Reza Abasi
+2020-11-16	intitle:"index of" "config.exs" | "dev.exs" | "test.exs" | "prod.secret.exs"	Files Containing Passwords	Alexandros Pappas
+2020-11-16	site:gov ext:sql | ext:dbf | ext:mdb	Files Containing Juicy Info	ANURAG K P
+2020-11-16	intitle:"index of" "Clientaccesspolicy.xml"	Files Containing Juicy Info	Reza Abasi
+2020-11-11	Index of /_vti_pvt +"*.pwd"	Files Containing Juicy Info	Alexandros Pappas
+2020-11-11	intitle:"index of" intext:credentials	Files Containing Juicy Info	Mohammed Saneem
+2020-11-11	intitle:"index of" "sitemanager.xml" | "recentservers.xml"	Files Containing Usernames	Alexandros Pappas
+2020-11-06	intitle:"index of" "service-Account-Credentials.json" | "creds.json"	Files Containing Juicy Info	Alexandros Pappas
+2020-11-06	jdbc:oracle://localhost: + username + password ext:yml | ext:java -git -gitlab	Files Containing Passwords	Alexandros Pappas
+2020-11-06	jdbc:postgresql://localhost: + username + password ext:yml | ext:java -git -gitlab	Files Containing Passwords	Alexandros Pappas
+2020-11-06	intitle:"Powered by Pro Chat Rooms"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-11-06	intitle:"index of" "/.idea"	Files Containing Juicy Info	Alexandros Pappas
+2020-11-06	inurl:/homej.html?	Various Online Devices	Sanu Jose M
+2020-11-06	intitle:"index of" "filezilla.xml"	Files Containing Usernames	Alexandros Pappas
+2020-11-06	inurl:"woocommerce-exporter"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-11-04	Server: Mida eFramework	Advisories and Vulnerabilities	Alexandros Pappas
+2020-11-04	intitle:"index of" "WebServers.xml"	Sensitive Directories	Alexandros Pappas
+2020-11-04	intitle:index of .git/hooks/	Sensitive Directories	Prasad Lingamaiah
+2020-11-04	inurl:/index.html?size=2&mode=4	Various Online Devices	Prasad Lingamaiah
+2020-11-04	inurl:/eftclient/account/login.htm	Pages Containing Login Portals	Sajan Dhakate
+2020-11-04	"-- Dumping data for table `admin`" | "-- INSERT INTO `admin`" "VALUES" ext:sql | ext:txt | ext:log | ext:env	Sensitive Directories	Alexandros Pappas
+2020-11-04	inurl: 1051/viewer/live/index.html?lang=en	Various Online Devices	Emre DURMAZ
+2020-10-28	intitle:"index of" "/xampp/htdocs" | "C:/xampp/htdocs/"	Files Containing Juicy Info	Alexandros Pappas
+2020-10-28	"-- Server version" "-- MySQL Administrator dump 1.4" ext:sql	Files Containing Juicy Info	Alexandros Pappas
+2020-10-28	intitle:"Sphider Admin Login"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-10-28	inurl:/adfs/ls/idpinitiatedsignon	Pages Containing Login Portals	Javier Bernardo
+2020-10-28	"* Authentication Unique Keys and Salts" ext:txt | ext:log	Files Containing Juicy Info	Alexandros Pappas
+2020-10-28	jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:javascript -git -gitlab	Files Containing Passwords	Jose Praveen
+2020-10-28	site:*gov.* intitle:index.of db	Files Containing Juicy Info	Prajwal Khante
+2020-10-26	allintext:"Copperfasten Technologies" "Login"	Pages Containing Login Portals	KawaiiPantsu
+2020-10-26	allintext:"Index Of" "cookies.txt"	Files Containing Juicy Info	Sajan Dhakate
+2020-10-26	ext:txt | ext:log | ext:cfg | ext:yml "administrator:500:"	Files Containing Juicy Info	Alexandros Pappas
+2020-10-26	inurl:/adfs/ls/?SAMLRequest	Pages Containing Login Portals	Javier Bernardo
+2020-10-26	site:sftp.*.*/ intext:"login" intitle:"server login"	Pages Containing Login Portals	Alexandros Pappas
+2020-10-21	inurl: /.git	Sensitive Directories	Tuhin Bose
+2020-10-21	intitle:"NetCamSC*" | intitle:"NetCamXL*" inurl:index.html	Various Online Devices	Alexandros Pappas
+2020-10-21	"index of" "/home/000~ROOT~000/etc"	Files Containing Juicy Info	Sibi Mathew George
+2020-10-21	"DefaultPassword" ext:reg "[HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersionWinlogon]"	Files Containing Usernames	Alexandros Pappas
+2020-10-21	inurl:weblogin.cgi?=0	Pages Containing Login Portals	Sanu Jose M
+2020-10-21	inurl:user intitle:index of ext:sql | xls | xml | json | csv	Files Containing Usernames	Virendra Tiwari
+2020-10-21	filetype:csv intext:"Secret access key"	Files Containing Usernames	amrabee
+2020-10-21	"spring.datasource.password=" + "spring.datasource.username=" ext:properties -git -gitlab	Files Containing Passwords	Alexandros Pappas
+2020-10-20	intitle:"SiteOmat Loader"	Pages Containing Login Portals	idealphase
+2020-10-20	intitle:"pi-hole Admin console" intext:"login"	Pages Containing Login Portals	Aninda Saha
+2020-10-20	inurl:8080 + intext:"httpfileserver 2.3"	Sensitive Directories	Alexandros Pappas
+2020-10-20	jdbc:mysql://localhost:3306/ + username + password ext:yml | ext:java -git -gitlab	Files Containing Usernames	Alexandros Pappas
+2020-10-19	intitle:"index of" "/parameters.yml*"	Files Containing Usernames	Alexandros Pappas
+2020-10-19	ext:log password END_FILE	Files Containing Passwords	Sajan Dhakate
+2020-10-19	intext:Please Login SSL VPN inurl:remote/login intext:FortiClient	Pages Containing Login Portals	Aninda Saha
+2020-10-19	inurl:/phpPgAdmin/browser.php	Web Server Detection	Sibi Mathew George
+2020-10-19	inurl:set_config_password.html	Various Online Devices	Alexandros Pappas
+2020-10-15	intitle:"PowerMTA" inurl:logs	Files Containing Juicy Info	Javier Bernardo
+2020-10-15	ext:php | intitle:phpinfo "published by the PHP Group"	Web Server Detection	Rahul Parmar
+2020-10-15	intitle:"InfoView" + "Log On to InfoView"	Pages Containing Login Portals	Alexandros Pappas
+2020-10-15	inurl:node_modules/mqtt/test/helpers/	Sensitive Directories	Rahul Parmar
+2020-10-14	site:pastebin.com intext:admin.password	Files Containing Passwords	Paramjot Singh
+2020-10-14	allintext:"index of" "oauth-private.key"	Files Containing Juicy Info	Sajan Dhakate
+2020-10-14	allintext:"Index Of" "sftp-config.json"	Web Server Detection	Sajan Dhakate
+2020-10-14	"Vigor Login Page" + intext:"Group"	Pages Containing Login Portals	Alexandros Pappas
+2020-10-13	"db.username" + "db.password" ext:properties	Files Containing Passwords	Alexandros Pappas
+2020-10-13	intitle: "Index of" inurl:admin/uploads	Sensitive Directories	SARATH G
+2020-10-13	intitle:"index of" "server.crt" | "server.csr"	Sensitive Directories	Alexandros Pappas
+2020-10-13	inurl:/wp-content/plugins/wp-file-manager/readme.txt	Advisories and Vulnerabilities	Kathan Patel
+2020-10-12	inurl:weblogin.cgi?=1	Pages Containing Login Portals	Sanu Jose M
+2020-10-12	inurl:_vti_bin/Authentication.asmx	Web Server Detection	Javier Bernardo
+2020-10-12	intext:piwik "login"	Pages Containing Login Portals	Sanu Jose M
+2020-10-09	"CREATE ROLE" + "ENCRYPTED PASSWORD" ext:sql | ext:txt | ext:ini -git -gitlab	Files Containing Usernames	Alexandros Pappas
+2020-10-09	intext:"Published with Textpattern CMS"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-10-08	ext:cfg "g_password" | "sv_privatepassword" | "rcon_password" -git -gitlab	Files Containing Passwords	Alexandros Pappas
+2020-10-08	intitle:"index of" "/CFIDE/" intext:"administrator"	Sensitive Directories	Alexandros Pappas
+2020-10-07	"server.cfg" ext:cfg intext:"rcon_password" -git -gitlab	Files Containing Passwords	Alexandros Pappas
+2020-10-07	"index of" "mysql.sh"	Sensitive Directories	Virendra Tiwari
+2020-10-06	"Powered by 123LogAnalyzer"	Web Server Detection	Strontium
+2020-10-06	"anaconda-ks.cfg" | "ks.cfg" ext:cfg -git -gitlab	Files Containing Passwords	Alexandros Pappas
+2020-10-06	rootpw --iscrypted ext:cfg	Files Containing Passwords	Alexandros Pappas
+2020-10-05	intitle:"index of" "slapd.conf"	Sensitive Directories	Alexandros Pappas
+2020-10-05	allintitle:"CrushFTP WebInterface"	Pages Containing Login Portals	Sibi Mathew George
+2020-10-05	"UV9 Error (1.0)"	Files Containing Juicy Info	Strontium
+2020-10-02	File contains Sensitive Information	Files Containing Usernames	Abishekraghav Murugeashan
+2020-10-02	intext:"Powered by Piwigo"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-10-02	intext:"Powered by Typesetter"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-10-02	intitle:"index of" "/system.log" | "/system.logs"	Sensitive Directories	Alexandros Pappas
+2020-10-01	inurl:/phpPgAdmin/browser.php intext:"Servers" | "PostgreSQL*"	Pages Containing Login Portals	Alexandros Pappas
+2020-10-01	inurl:/8080 "windows" "live view"	Various Online Devices	Raghotham Mruthike
+2020-10-01	intitle:"Vulnerability Report" "Critical" ext:pdf	Vulnerable Servers	Alexandros Pappas
+2020-09-29	inurl:console-selfservice	Pages Containing Login Portals	Javier Bernardo
+2020-09-29	"admin_password" ext:txt | ext:log | ext:cfg	Files Containing Passwords	Alexandros Pappas
+2020-09-28	inurl:"webArch/mainFrame.cgi" + "Web Image Monitor"	Various Online Devices	Alexandros Pappas
+2020-09-28	inurl:/ emis login	Pages Containing Login Portals	Raghotham Mruthike
+2020-09-28	inurl:AIMS/PS	Pages Containing Login Portals	Javier Bernardo
+2020-09-28	inurl:/ usda login	Pages Containing Login Portals	Sahil Saxena
+2020-09-28	intitle:"Everything" inurl:C:Windows	Sensitive Directories	Manh Tuong Vi
+2020-09-28	"Pop-up" + "Live Image" inurl:index.html	Various Online Devices	Alexandros Pappas
+2020-09-28	"index of" "email.ini"	Sensitive Directories	Aninda Saha
+2020-09-25	inurl:idp/SSO.saml2	Pages Containing Login Portals	Javier Bernardo
+2020-09-25	intitle:"Environment Variables" inurl:/cgi-bin/	Files Containing Juicy Info	Sibi Mathew George
+2020-09-25	inurl:/ Kms login	Pages Containing Login Portals	Sanu Jose M
+2020-09-24	"-- Dumping data for table * " ext:sql | ext:xls intext:db | intext:database | intext:password | username	Sensitive Directories	mittal.pratham
+2020-09-24	intitle:"index of" "mysql.log" | "mysql.logs"	Files Containing Juicy Info	Alexandros Pappas
+2020-09-24	"index of" "password.ini"	Files Containing Passwords	Sahil Saxena
+2020-09-24	intitle:Snoop Servlet	Web Server Detection	Ozer Goker
+2020-09-24	intitle:"index of" "/app.log" | "/app.logs"	Sensitive Directories	Alexandros Pappas
+2020-09-24	filetype:log intext:password after:2015 intext:@gmail.com | @yahoo.com | @hotmail.com	Files Containing Passwords	Anurodh Acharya
+2020-09-23	GitLab ssh.log ext:log	Sensitive Directories	Muralikrishna Janga
+2020-09-23	inurl:/ lms login	Pages Containing Login Portals	Raghotham M
+2020-09-23	"'username' =>" + "'password' =>" ext:log	Files Containing Passwords	Alexandros Pappas
+2020-09-23	inurl:VirtualEms/Login.aspx	Pages Containing Login Portals	Alexandros Pappas
+2020-09-23	inurl:"live/cam.html"	Various Online Devices	Sanu Jose M
+2020-09-23	"-- Dumping data for table `users` | `people` | `member`" ext:sql | ext:txt | ext:log | ext:env	Sensitive Directories	Alexandros Pappas
+2020-09-22	inurl:"sms login"	Pages Containing Login Portals	Sanu Jose M
+2020-09-22	inurl:"plc login"	Pages Containing Login Portals	Muralikrishna Janga
+2020-09-22	intitle:"database.php" inurl:"database.php" intext:"db_password" -git -gitlab	Files Containing Passwords	Alexandros Pappas
+2020-09-22	ext:txt intext:@yahoo.com intext:password	Files Containing Passwords	Dharmveer Singh
+2020-09-21	inurl:"rms login"	Pages Containing Login Portals	Abida Shariff
+2020-09-21	ext:xls intext:@gmail.com intext:password	Files Containing Passwords	malaikarastogi
+2020-09-21	inurl:/ ims login	Pages Containing Login Portals	Sahil Saxena
+2020-09-21	inurl:"images/lists?cid=13"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-09-18	ext:reg [HKEY_CURRENT_USERSoftwareSimonTathamPuTTYSshHostKeys]	Sensitive Directories	Alexandros Pappas
+2020-09-18	"putty.log" ext:log | ext:cfg | ext:txt	Files Containing Juicy Info	Alexandros Pappas
+2020-09-18	inurl:/CgiStart?page	Various Online Devices	Alexandros Pappas
+2020-09-18	inurl:"/viewer/live.html"	Various Online Devices	Sanu Jose M
+2020-09-17	allintitle:"Pi-hole Admin Console"	Web Server Detection	Alexandros Pappas
+2020-09-17	"index of" "performance_schema"	Sensitive Directories	Sahil Saxena
+2020-09-17	inurl:"/viewer/live/index.html"	Various Online Devices	Frank Rizzuto
+2020-09-16	inurl:/ mis login	Pages Containing Login Portals	Raghotham M
+2020-09-16	site:jira.*.* inurl:/customer/portal/	Pages Containing Login Portals	Alexandros Pappas
+2020-09-16	inurl:device ext:rsp	Advisories and Vulnerabilities	Sibi Mathew George
+2020-09-15	"index of" "users.ibd"	Sensitive Directories	Sahil Saxena
+2020-09-15	"POSTGRES_PASSWORD=" ext:txt | ext:cfg | ext:env | ext:ini | ext:yml | ext:sql -git -gitlab	Files Containing Passwords	Alexandros Pappas
+2020-09-15	intitle:"Lists Web Service"	Web Server Detection	Alexandros Pappas
+2020-09-15	"-- PostgreSQL database dump complete" ext:sql | ext:txt | ext:log | ext:env	Sensitive Directories	Alexandros Pappas
+2020-09-14	inurl:wsnavigator/jsps	Footholds	Javier Bernardo
+2020-09-14	inurl:"/mifs/user"	Pages Containing Login Portals	Alfie
+2020-09-14	"index of" "users.frm"	Files Containing Usernames	Sahil Saxena
+2020-09-11	intitle:"index of" "httpd.pid"	Footholds	Navaneeth Shyam
+2020-09-11	mail/u/0 filetype:pdf	Footholds	AjithKumar
+2020-09-11	inurl:"/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php" - Wordpress File Manager	Advisories and Vulnerabilities	bt0
+2020-09-11	inurl:webclient/Login.xhtml	Pages Containing Login Portals	Alexandros Pappas
+2020-09-10	intitle:"index of" "config.db"	Files Containing Juicy Info	Navaneeth Shyam
+2020-09-10	site:ftp.*.* "CrushFTP WebInterface"	Pages Containing Login Portals	Alexandros Pappas
+2020-09-10	inurl:"/plugins/servlet/Wallboard/"	Footholds	Pratik Khalane
+2020-09-09	intitle:"Dell SonicWALL - Authentication" inurl:auth.html	Pages Containing Login Portals	Sibi Mathew George
+2020-09-09	intitle:"index of" "phpmyadmin.sql"	Files Containing Juicy Info	Reza Abasi
+2020-09-07	"SonicWALL - Authentication" inurl:/auth.html	Pages Containing Login Portals	Alexandros Pappas
+2020-09-07	Database:phpmyadmin intext:mysql ext:sql inurl:phpmyadmin	Files Containing Juicy Info	Prasad Lingamaiah
+2020-09-07	"Retrieve Your Password" site:*/recoverpassword.aspx	Pages Containing Login Portals	Alexandros Pappas
+2020-09-07	inurl:/userportal/webpages/myaccount/login.jsp	Pages Containing Login Portals	Prasad Lingamaiah
+2020-09-07	inurl: authorlogin.php	Pages Containing Login Portals	Sanu Jose M
+2020-09-04	intitle:"Rockwell Automation" inurl:"index.html" "Device Name"	Various Online Devices	Alexandros Pappas
+2020-09-04	inurl:weblogin.cgi?mobile=0	Pages Containing Login Portals	Alexandros Pappas
+2020-09-03	intitle:"Web Login" "For security reasons only authorized users are allowed access to this web server. "	Pages Containing Login Portals	Alexandros Pappas
+2020-09-03	'AUTH_SALT' | 'SECURE_AUTH_SALT' | 'LOGGED_IN_SALT' | 'NONCE_SALT' ext:txt | ext:cfg | ext:env | ext:ini	Files Containing Juicy Info	Alexandros Pappas
+2020-09-03	"ws_ftp.log" ext:log	Sensitive Directories	Alexandros Pappas
+2020-09-02	intitle:"index of" "composer.lock"	Files Containing Juicy Info	Badal Sardhara
+2020-09-02	inurl:8080/view/viewer_index.shtml?id= -site:*.com	Various Online Devices	cyb3rmx0
+2020-09-01	intitle:"login to webmin" "You must enter a username and password to login to the Webmin server"	Pages Containing Login Portals	Reza Abasi
+2020-09-01	"/** MySQL database password */" ext:txt | ext:cfg | ext:env | ext:ini	Files Containing Passwords	Alexandros Pappas
+2020-09-01	"index of" "callback.php"	Files Containing Juicy Info	Prashant Sharma
+2020-09-01	inurl:/Dashboard.xhtml intitle:"Dashboard"	Footholds	Alexandros Pappas
+2020-08-31	inurl::/app/kibana "Kibana" -discuss -ipaddress -git	Footholds	Adithya Chandra
+2020-08-31	intitle:"Monsta ftp" intext:"Lock session to IP"	Web Server Detection	Edwyn Sanders
+2020-08-31	inurl: login.rsp	Advisories and Vulnerabilities	Shreyas Gujar
+2020-08-31	intitle:"Wimax CPE Configuration"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-31	allintitle:"Welcome admin"	Pages Containing Login Portals	rahulsr2714
+2020-08-31	intitle:"GoAnywhere Web Client - Login"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-31	"-- Dump completed" ext:sql | ext:txt | ext:log	Sensitive Directories	Alexandros Pappas
+2020-08-28	intitle:"Miniweb Start Page"	Various Online Devices	Alexandros Pappas
+2020-08-28	inurl:login_up.php "Plesk Onyx"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-28	site:ftp://ftp.*.* ext:sql	Files Containing Juicy Info	Reza Abasi
+2020-08-28	inurl:/presentation/html/top/index.html	Various Online Devices	Juan Christian
+2020-08-27	allintitle:"Welcome to the Web-Based Configurator"	Various Online Devices	Sibi Mathew George
+2020-08-27	inurl:CTCWebService	Footholds	Javier Bernardo
+2020-08-26	"Citrix Receiver" inurl:index.html "Gateway"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-26	inurl:"/portal/webclient" intitle:"VMware Horizon"	Pages Containing Login Portals	Varsha V Rajan
+2020-08-24	inurl:/login.asp "Configuration and Management"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-24	inurl:device.rsp -com -www	Pages Containing Login Portals	Sibi Mathew George
+2020-08-24	inurl:"/rpAuth.html" "ZyWALL"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-21	intext:admin ext:sql inurl:admin	Files Containing Juicy Info	Anshul T
+2020-08-21	intitle:"NVR LOGIN" -inurl:"nvr | com | www | net"	Pages Containing Login Portals	Sibi Mathew George
+2020-08-21	inurl:"view.shtml" "Network Camera"	Various Online Devices	Alexandros Pappas
+2020-08-20	intitle:"Tuxedo Connected Controller"	Various Online Devices	Alexandros Pappas
+2020-08-20	ext:log intext:NetworkManager "systemd"	Files Containing Juicy Info	Mayank Sharma
+2020-08-20	inurl:/config/cam_portal.cgi "Panasonic"	Various Online Devices	Alexandros Pappas
+2020-08-20	site:*/piwik "Sign in" "Matomo"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-19	inurl:"/login?csrfkey=" intitle:"cisco email security"	Pages Containing Login Portals	Adithya Chandra
+2020-08-17	inurl:.*eservices/login	Various Online Devices	Jitendra Kumar Tripathi
+2020-08-17	"EMAIL_HOST_PASSWORD" ext:yml | ext:env | ext:txt | ext:log	Files Containing Passwords	Alexandros Pappas
+2020-08-17	"index of" "user.MYD"	Files Containing Juicy Info	Sahil Saxena
+2020-08-17	intitle:"axigen webadmin"	Pages Containing Login Portals	Edwyn Sanders
+2020-08-13	allintitle:"MDVR Login"	Pages Containing Login Portals	Sibi Mathew George
+2020-08-13	intitle:"D-LINK" inurl:Login.html	Pages Containing Login Portals	Alexandros Pappas
+2020-08-12	intitle:"Helpdesk Software Login" "login" "by Jitbit"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-12	intitle:"DVR LOGIN" -com	Pages Containing Login Portals	Sibi Mathew George
+2020-08-11	inurl:client_login=	Pages Containing Login Portals	Sanu Jose M
+2020-08-11	intitle:"NETGEAR" inurl:"/base/main_login.html"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-11	intitle:"D-LINK SYSTEMS, INC. | WIRELESS AP : LOGIN"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-10	intitle:"OpenWrt - LuCI" "Authorization Required"	Pages Containing Login Portals	Alexandros Pappas
+2020-08-10	intitle:"index of" "firewall.log" | "firewall.logs"	Sensitive Directories	Alexandros Pappas
+2020-08-10	allintext:"API_SECRET*" ext:env | ext:yml	Files Containing Juicy Info	Alexandros Pappas
+2020-08-10	site:.gov inurl:admin login	Pages Containing Login Portals	Aditya Rana
+2020-08-07	"Camera Live Image" inurl:"guestimage.html"	Various Online Devices	Alexandros Pappas
+2020-08-07	intitle:"UPS Status" "Status" inurl:/host	Various Online Devices	Alexandros Pappas
+2020-08-06	intitle:"webcam" inurl:login	Various Online Devices	Aditya Rana
+2020-08-06	inurl:''com_gmapfp''	Advisories and Vulnerabilities	Alexandros Pappas
+2020-08-05	intitle:"index of" "/000~ROOT~000/"
+2020-08-05	allintext:"redis_password" ext:env	Files Containing Passwords	Alexandros Pappas
+2020-08-05	intitle:"Login - OpenStack Dashboard" inurl:/dashboard/auth/login	Pages Containing Login Portals	Sibi Mathew George
+2020-08-04	intitle:"Microsoft Internet Information Services 8" -IIS	Web Server Detection	Sibi Mathew George
+2020-08-04	inurl:wp-content/plugins/wpdiscuz	Advisories and Vulnerabilities	Gal Nagli
+2020-07-29	"You have accessed a private computer system" inurl:login	Pages Containing Login Portals	Alexandros Pappas
+2020-07-29	intitle:"Remote Desktop Web Connection" inurl:tsweb	Pages Containing Login Portals	Aditya Rana
+2020-07-29	"HP LaserJet" inurl:"SSI/index.htm"	Various Online Devices	Alexandros Pappas
+2020-07-29	inurl:8081/ "Pan, Tilt & Zoom"	Various Online Devices	Alexandros Pappas
+2020-07-28	inurl:wp-content/plugins/easy-media-gallery-pro	Advisories and Vulnerabilities	Lokesh S
+2020-07-28	"Reflector Dashboard" inurl:/db/index.php/	Files Containing Juicy Info	Alexandros Pappas
+2020-07-27	"Share Link" inurl:/share.cgi?ssid=	Sensitive Directories	Alexandros Pappas
+2020-07-27	inurl:"/vam/index_vam_op.php"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-07-26	inurl:wp-content/plugins/my-calendar	Advisories and Vulnerabilities	Lokesh S
+2020-07-26	intitle:"index of" /lsass.exe	Sensitive Directories	Prasad Lingamaiah
+2020-07-26	inurl:/+CSCOE+/logon.html?	Pages Containing Login Portals	Supun Halangoda
+2020-07-26	intitle:"SFXAdmin" intext:"Login Form"	Pages Containing Login Portals	Alexandros Pappas
+2020-07-26	site:admin.*.*/ intext:"login" intitle:"login"	Pages Containing Login Portals	Alexandros Pappas
+2020-07-26	site:police.*.*/ intext:"login" intitle:"login"	Pages Containing Login Portals	Dharmveer Singh
+2020-07-26	intitle:"index of" jboss-service.xml	Files Containing Juicy Info	Anurag Kumar
+2020-07-26	intext:"Frame rate" inurl:/home/homej.html	Various Online Devices	Alexandros Pappas
+2020-07-26	intitle:ePMP 1000 intext:Log In -site:*.com -site:com.*	Advisories and Vulnerabilities	cyb3rmx0
+2020-07-26	inurl:wp-content/plugins/updraftplus	Advisories and Vulnerabilities	Lokesh S
+2020-07-26	intext:"Device Name" | intext:"Host Name" inurl:mainFrame.cgi	Various Online Devices	Alexandros Pappas
+2020-07-26	inurl:axis-cgi/mjpg/video swf	Various Online Devices	Sachin Kattimani
+2020-07-26	inurl:wp-content/plugins/redirection	Advisories and Vulnerabilities	Lokesh S
+2020-07-26	site:com "sap netweaver portal"	Pages Containing Login Portals	berat isler
+2020-07-26	Index of : wp-content/plugins/wpmudev-updates/	Advisories and Vulnerabilities	Pratik Khalane
+2020-07-26	inurl:/home/homej.html	Various Online Devices	Alexandros Pappas
+2020-07-26	inurl:/webconsole/webpages/login.jsp	Pages Containing Login Portals	Dharmveer Singh
+2020-07-23	intext:"db_database" ext:env intext:"db_password"	Files Containing Passwords	Alexandros Pappas
+2020-07-23	intext:ISUR_MACHINE IIS -log	Files Containing Juicy Info	Priyanka Prasad
+2020-07-21	Index: /wp-includes/Text/Diff	Sensitive Directories	Pratik Khalane
+2020-07-21	intitle:"index of" /var/logs filetype:'"log | txt | csv"	Sensitive Directories	Siddharth Hingol
+2020-07-21	inurl:wp-content/plugins/safe-svg	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-21	intitle:"index.of" +jmx-console	Footholds	Tanmay Bhattacharjee
+2020-07-21	inurl:wp-content/plugins/sfwd-lms	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-21	inurl:wp-content/plugins/email-subscribers	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-21	inurl:"/general/status.html"	Various Online Devices	Prasad Lingamaiah
+2020-07-21	inurl:/ViewerFrame? intitle:"Network Camera NetworkCamera"	Various Online Devices	Alexandros Pappas
+2020-07-21	inurl:axis-cgi/jpg	Various Online Devices	Tanmay Bhattacharjee
+2020-07-21	inurl:wp-content/plugins/iwp-client	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-21	inurl:index.php "Powered by PHP Server Monitor v3.1.1"	Pages Containing Login Portals	Alexandros Pappas
+2020-07-21	inurl:wp-content/plugins/arforms	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-17	inurl:wp-content/plugins/idx-broker-platinum	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-17	inurl:wp-content/plugins/all-in-one-wp-migration	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-17	inurl:wp-content/plugins/lifterlms	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-17	inurl:wp-content/plugins/async-javascript	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-17	inurl:wp-content/plugins/wpjobboard	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-17	intitle:"Wing FTP Server - Web"	Vulnerable Servers	Alexandros Pappas
+2020-07-16	inurl:wp-content/plugins/sendpress	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-16	inurl:wp-content/plugins/wd-google-maps	Advisories and Vulnerabilities	Sachin Kattimani
+2020-07-16	allintext:username,password filetype:log	Files Containing Juicy Info	isa ghojaria
+2020-07-14	inurl:wp-content/plugins/kingcomposer	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-14	inurl:wp-content/plugins/gravityforms	Advisories and Vulnerabilities	Lokesh S
+2020-07-14	inurl:wp-content/plugins/knight-lab-timelinejs	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-14	inurl /view.shtml intext:"Airport"	Various Online Devices	isa ghojaria
+2020-07-14	"login" intitle:"*payroll login"	Pages Containing Login Portals	Alexandros Pappas
+2020-07-14	inurl:/wp-content/themes/realestate-7	Advisories and Vulnerabilities	Jose Praveen
+2020-07-14	inurl:wp-content/plugins/angwp	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-14	inurl:wp-content/themes/corona	Advisories and Vulnerabilities	Abhinav Porwal
+2020-07-14	allintext:wp-content/plugins/angwp	Advisories and Vulnerabilities	Tanmay Bhattacharjee
+2020-07-14	intitle:"SFXAdmin - sfx_global" intext:"Login Form"	Various Online Devices	Alexandros Pappas
+2020-07-14	allintext: wp-content/themes/injob	Advisories and Vulnerabilities	Tanmay Bhattacharjee
+2020-07-14	inurl:wp-content/plugins/knight-lab-timelinejs	Advisories and Vulnerabilities	Tanmay Bhattacharjee
+2020-07-14	inurl:wp-content/plugins/wise-chat	Advisories and Vulnerabilities	Tanmay Bhattacharjee
+2020-07-14	inurl:/seeyon/index.jsp	Pages Containing Login Portals	Jose Praveen
+2020-07-14	inurl:/wp-content/plugins/angwp	Advisories and Vulnerabilities	Ritik Kumar Jain
+2020-07-14	inurl:wp-content/plugins/angwp	Advisories and Vulnerabilities	Tanmay Bhattacharjee
+2020-07-13	inurl:wp-content/plugins/form-maker	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-13	inurl:wp-content/plugins/wp-live-chat-support	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-13	inurl:wp-content/plugins/newsletter	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-13	intitle:"Index of /" +.htaccess.old	Sensitive Directories	vineet patil
+2020-07-10	inurl:client_password=	Pages Containing Login Portals	Sanu Jose M
+2020-07-10	intitle:"index of" exception.log	Files Containing Juicy Info	Sai Prashanth Pulisetti
+2020-07-09	inurl:/opac/index.jsp	Pages Containing Login Portals	Jose Praveen
+2020-07-09	intitle:"report" ("OpenVAS" | "Nikto") ext:pdf OR ext:html	Files Containing Juicy Info	Alexandros Pappas
+2020-07-09	intitle:"report" ("Fortify" | "Web Inspect") filetype:pdf	Files Containing Juicy Info	S Suhas
+2020-07-09	"big-ip logout page" ext:php3	Pages Containing Login Portals	datahex
+2020-07-09	intitle:"index of /" +.htdocs	Footholds	Tanmay Bhattacharjee
+2020-07-08	"TOPdesk ApplicationServer" inurl:/index.jsp	Pages Containing Login Portals	Alexandros Pappas
+2020-07-08	intitle:"Index of /" +.htaccess	Footholds	Priyanka Prasad
+2020-07-08	intitle:"index of" "/root/etc/security/"	Sensitive Directories	Alexandros Pappas
+2020-07-07	intitle:"report" ("qualys" | "acunetix" | "nessus" | "netsparker" | "nmap") filetype:html	Files Containing Juicy Info	Sachin Kattimani
+2020-07-07	"login" intitle:"*reports login"	Pages Containing Login Portals	Jose Praveen
+2020-07-07	allintext:wp-content/plugins/acf-to-rest-api	Advisories and Vulnerabilities	Tanmay Bhattacharjee
+2020-07-07	inurl:wp-content/themes/sparky	Advisories and Vulnerabilities	Abhinav Porwal
+2020-07-07	intitle:"Index of /" "joomla/database"	Files Containing Juicy Info	NaveenKumar
+2020-07-06	intitle:"Index of c:xampp"	Sensitive Directories	Prasad Lingamaiah
+2020-07-06	intitle:"index of" "tomcat-users.xml"	Files Containing Usernames	Jose Praveen
+2020-07-06	inurl:wp-content/themes/careerup	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-06	inurl:wp-content/plugins/security-malware-firewall	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-06	inurl:wp-content/plugins/wp-jobsearch	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-06	inurl:wp-content/plugins/wpforms-lite	Advisories and Vulnerabilities	Tanmay Bhattacharjee
+2020-07-06	inurl:wp-content/plugins/payment-form-for-paypal-pro	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-06	inurl:wp-content/themes/nexos	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-06	inurl:wp-content/plugins/testimonials-widget	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-06	inurl:wp-content/themes/careerfy	Advisories and Vulnerabilities	Abhi Chitkara
+2020-07-02	site:gov.*.*/ intext:"login" intitle:"login"	Pages Containing Login Portals	Dharmveer Singh
+2020-07-02	intitle:"index of" "/ftpusers"	Files Containing Usernames	Mohit khemchandani
+2020-07-02	inurl:/8080/admin.html	Pages Containing Login Portals	Alexandros Pappas
+2020-07-02	intitle:"index of" "nginx.log"	Footholds	Emmanuel Karunya
+2020-07-01	inurl:8080/login.php	Pages Containing Login Portals	Priyanka Prasad
+2020-07-01	"radius-server key" ext:cfg OR ext:log OR ext:txt	Footholds	Alexandros Pappas
+2020-07-01	"Index of" "/yahoo_site_admin/credentials"	Files Containing Passwords	Mohit khemchandani
+2020-06-30	intitle:"index of" "bundle.pem"	Files Containing Juicy Info	Alexandros Pappas
+2020-06-30	inurl:passwordvault intext:cyberark	Pages Containing Login Portals	Juan Christian
+2020-06-30	"-----BEGIN RSA PRIVATE KEY-----" inurl:id_rsa	Files Containing Juicy Info	Sandeep Kumar
+2020-06-30	inurl:/sws/index.html	Various Online Devices	Prasad Lingamaiah
+2020-06-30	inurl:logs intext:GET https:// ext:txt intext:password intext:username	Files Containing Passwords	Sandeep Kumar
+2020-06-30	intext:piwik "Sign in"	Advisories and Vulnerabilities	Pierguido Iezzi
+2020-06-30	"Index of" "accounts.sql"	Files Containing Juicy Info	Mohit khemchandani
+2020-06-30	inurl:"backend/web/site/login"	Pages Containing Login Portals	Ambadi MP
+2020-06-30	"Index of" "/monitoring"	Sensitive Directories	Pawan Chhabria
+2020-06-30	intitle:"index of" "app.log"	Sensitive Directories	Ambadi MP
+2020-06-30	inurl:wp-content/plugins/form-maker	Advisories and Vulnerabilities	Ritik Kumar Jain
+2020-06-30	inurl:"index.php/user/password/"	Pages Containing Login Portals	isa ghojaria
+2020-06-30	intitle:"IceWarp WebClient"	Advisories and Vulnerabilities	Ambadi MP
+2020-06-30	intitle:"index of" ./bash_history	Files Containing Juicy Info	Alexandros Pappas
+2020-06-30	allinurl:tsweb/default.htm	Pages Containing Login Portals	Alexandros Pappas
+2020-06-30	inurl:wp-content/plugins/coming-soon	Advisories and Vulnerabilities	Ritik Kumar Jain
+2020-06-30	inurl:/base/main_login.html intext:"Login"	Various Online Devices	Prasad Lingamaiah
+2020-06-30	intitle:"index of" "/master.passwd"	Files Containing Passwords	Alexandros Pappas
+2020-06-30	"Index of" "/monitoring"	Sensitive Directories	Pawan Chhabria
+2020-06-30	inurl:passwordvault intext:cyberark	Pages Containing Login Portals	Juan Christian
+2020-06-30	intext:piwik "Sign in"	Advisories and Vulnerabilities	Pierguido Iezzi
+2020-06-30	inurl:"index.php/user/password/"	Pages Containing Login Portals	isa ghojaria
+2020-06-30	intitle:"index of" ./bash_history	Files Containing Juicy Info	Alexandros Pappas
+2020-06-30	inurl:logs intext:GET https:// ext:txt intext:password intext:username	Files Containing Passwords	Sandeep Kumar
+2020-06-30	intitle:"index of" "/home/ROOT_PATH/"	Sensitive Directories	Alexandros Pappas
+2020-06-26	intext:Powered by 2Moons 2009-2013	Advisories and Vulnerabilities	Vanshal Gaur
+2020-06-26	intitle:"index of" "*named.root.key"	Files Containing Juicy Info	Alexandros Pappas
+2020-06-26	intitle:"index of" /etc/openvpn/	Files Containing Juicy Info	Alexandros Pappas
+2020-06-25	inurl:wp-content/themes/citybook	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-25	inurl:wp-content/themes/traveler	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-25	intext:"Centreon 2005-2019"	Advisories and Vulnerabilities	Ambadi MP
+2020-06-24	inurl:wp-content/plugins/wpDiscuz	Advisories and Vulnerabilities	Pankaj Verma
+2020-06-24	intitle:"index of" "ssh_host_ecdsa_key"	Sensitive Directories	Ambadi MP
+2020-06-23	inurl:wp-content/plugins/wp-pro-quiz	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-23	inurl:/webmail intext:Tecnologia fornecida por IceWarp Server	Advisories and Vulnerabilities	Vanshal Gaur
+2020-06-23	inurl:wp-content/plugins/ar-contactus	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-23	inurl:wp-content/plugins/YITH-WooCommerce-Ajax-Product-Filter	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-22	intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net	Advisories and Vulnerabilities	Alexandros Pappas
+2020-06-22	inurl:"/jmx-console/HtmlAdaptor?action"	Footholds	krushna Lipane
+2020-06-22	inurl:wp-content/plugins/testimonial-rotator	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-22	intext:Basato su IceWarp Server	Advisories and Vulnerabilities	Sagar Yadav
+2020-06-22	Index of /__MACOSX/System	Files Containing Juicy Info	Deepak Kumar Bharti
+2020-06-22	inurl:"/arcgis/rest/services"	Footholds	Tolga Kayaş
+2020-06-22	intitle:"index of" "id_rsa.pub"	Files Containing Juicy Info	Sid Joshi
+2020-06-22	intext:"index of /" "Index of" access_log	Web Server Detection	Rishabh Chaplot
+2020-06-22	Index of: /services/pancard/	Sensitive Directories	Harsh Wadhwani
+2020-06-22	intext:Basato su Comunicazioni Integrate IceWarp	Advisories and Vulnerabilities	Sagar Yadav
+2020-06-22	intitle:"index of" and intext:"vendor" and intext:"phpunit"	Footholds	Arpit Kubadia
+2020-06-18	"MYSQL_ROOT_PASSWORD:" ext:env OR ext:yml -git	Files Containing Passwords	Alexandros Pappas
+2020-06-18	inurl:member filetype:xls	Sensitive Directories	GAGAN KUMAR JHA
+2020-06-18	intext:"TopManage (R) 2002 - 2020"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-06-17	inurl:"id=*" & intext:"warning mysql_fetch_array()"	Web Server Detection	krushna Lipane
+2020-06-17	inurl:wp-content/plugins/kingcomposer	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-17	inurl:"index.php/user/password/" intext:Password Reset	Pages Containing Login Portals	Ritesh Gohil
+2020-06-17	intitle:"index of" "oauth-private.key"	Sensitive Directories	Ambadi MP
+2020-06-17	inurl:candidatelogin.aspx	Pages Containing Login Portals	Akhil G Krishnan
+2020-06-17	intitle:"index of" "admin/xml"	Footholds	Viraj Mota
+2020-06-17	inurl:_vti_pvt/service.pwd	Sensitive Directories	Alexandros Pappas
+2020-06-17	intext:"Powered By Gila CMS"	Vulnerable Servers	Alexandros Pappas
+2020-06-17	filetype:env "DB_PASSWORD"	Files Containing Passwords	Shivanshu Sharma
+2020-06-17	inurl:logon/LogonPoint/index.html	Footholds	Harsh Bothra
+2020-06-17	intext:"Not to be distributed" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx	Files Containing Juicy Info	Alexandros Pappas
+2020-06-16	inurl:/download_file/ intext:"index of /"	Footholds	Rishabh Chaplot
+2020-06-16	index of /backend/prod/config	Files Containing Juicy Info	Rahul Parmar
+2020-06-16	intext:"index of /" "customer.php" "~Login"	Pages Containing Login Portals	Priyanka Prasad
+2020-06-16	inurl:admin/data* intext:index of	Sensitive Directories	Anjali Prakash
+2020-06-16	inurl:adminlogin.jsp	Pages Containing Login Portals	Md Anzaruddin
+2020-06-16	intext:powered by JoomSport - sport WordPress plugin	Advisories and Vulnerabilities	Alexandros Pappas
+2020-06-16	inurl:wp-content/plugins/elementor	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-16	intext:"Welcome to Intranet" "login"	Pages Containing Login Portals	Alexandros Pappas
+2020-06-16	inurl:wp-content/themes/newspaper	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-16	"Index of" "/access"	Files Containing Juicy Info	Prashant Sharma
+2020-06-16	Find Microsoft Lync Server AutoDiscover	Footholds	Kevin Randall
+2020-06-16	intext:"INTERNAL USE ONLY" ext:doc OR ext:pdf OR ext:xls OR ext:xlsx	Sensitive Directories	Alexandros Pappas
+2020-06-16	intitle:"index of" "users.sql"	Files Containing Usernames	Ambadi MP
+2020-06-15	intitle:"index of" secrets.yml	Files Containing Juicy Info	krushna Lipane
+2020-06-15	intext:"index of /" "*.yaml"	Files Containing Juicy Info	Abinesh kamal K U
+2020-06-15	index of "jira" inurl:login	Pages Containing Login Portals	Nikhil Kumar
+2020-06-15	"index of" "plugins/wp-rocket"	Advisories and Vulnerabilities	Prashant Sharma
+2020-06-15	intitle:"index of /" "*key.pem"	Files Containing Juicy Info	Ambadi MP
+2020-06-15	"powered by Typo3"	Advisories and Vulnerabilities	Abhinav Porwal
+2020-06-15	"index of" "siri"	Files Containing Juicy Info	Prashant Sharma
+2020-06-12	intitle:"index of" admin.tar	Files Containing Juicy Info	Abhi Chitkara
+2020-06-12	index of .svn/text-base/index.php.svn-base	Files Containing Juicy Info	saivinayreddy
+2020-06-12	intitle:"index of" "admin/sql/"	Sensitive Directories	Rutwik Shah
+2020-06-12	intext:"index of /" "config.json"	Files Containing Juicy Info	Abinesh kamal K U
+2020-06-11	inurl:/servicedesk/customer/user/login	Footholds	Rutwik Shah
+2020-06-11	Dork: "index of" "Production.json"	Vulnerable Files	Swapnil Talele
+2020-06-11	Dork: "Index of" "upload_image.php"	Vulnerable Files	Swapnil Talele
+2020-06-11	index.of.?.frm	Vulnerable Files	Abhi Chitkara
+2020-06-11	inurl:wp-content/plugins/brizy	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-10	"Index of" "customer.php"	Files Containing Juicy Info	Prashant Sharma
+2020-06-10	"index of" "svg"	Sensitive Directories	Mahesh Rai
+2020-06-10	index of logs.tar	Sensitive Directories	bhumish
+2020-06-10	"Index of" "sass-cache"	Sensitive Directories	Prashant Sharma
+2020-06-10	index of /wp-content/uploads/backupbuddy	Advisories and Vulnerabilities	Abhinav Porwal
+2020-06-10	intitle:index.of.?.db	Files Containing Juicy Info	Akhil G Krishnan
+2020-06-10	"login" intitle:"intext:"Welcome to Member" login"	Pages Containing Login Portals	Alexandros Pappas
+2020-06-10	inurl:index.shtml	Various Online Devices	Abhinav Porwal
+2020-06-10	intitle:"index of" "survey.cgi"	Sensitive Directories	Mohammed Arif H
+2020-06-10	inurl:".Admin;-aspx }" "~Login"	Pages Containing Login Portals	Anjali Prakash
+2020-06-10	"index of sqlite"	Files Containing Juicy Info	Mahesh Rai
+2020-06-09	inurl:"wp-contentpluginsphoto-gallery"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-06-09	inurl:.*org/login	Pages Containing Login Portals	Shankar bhuvanesh
+2020-06-09	index of "dbbackup"	Files Containing Juicy Info	Mayank Raheja
+2020-06-09	intitle:"index of" pass.php	Pages Containing Login Portals	Hemant Patidar
+2020-06-09	intitle:"index of /" "nginx.conf"	Files Containing Juicy Info	Sagar Banwa
+2020-06-09	intitle:"*Admin Intranet Login"	Pages Containing Login Portals	Alexandros Pappas
+2020-06-09	"index of" "fileadmin"	Sensitive Directories	Hemant Patidar
+2020-06-09	"root.log" ext:log	Files Containing Juicy Info	Alexandros Pappas
+2020-06-09	intitle:"index of" "dev/config"	Files Containing Juicy Info	Mayank Raheja
+2020-06-09	index of "logs.zip"	Files Containing Juicy Info	Shivansh Kumar
+2020-06-09	intitle:"index of" "nrpe.cfg"	Vulnerable Files	Anurag Muley
+2020-06-08	"phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"	Files Containing Juicy Info	Ashish More
+2020-06-08	intitle:"index of" "shell.php"	Vulnerable Servers	Hemant Patidar
+2020-06-08	inurl:wp-content/plugins/sportspress	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-08	index of admin/fckeditor/editor/filemanager/	Vulnerable Files	Priyanka Prasad
+2020-06-08	Pages Containing Login Portal into Various Web Server	Pages Containing Login Portals	Arindam Halder
+2020-06-08	DORK : intext:"index of" "var/log/"	Files Containing Juicy Info	Anil Tom
+2020-06-08	intitle:"index of" "wp-admin.zip"	Files Containing Juicy Info	Hemant Patidar
+2020-06-08	intitle:"Intranet Login"	Pages Containing Login Portals	Ambadi MP
+2020-06-08	intitle:"index of" "filemail.pl"	Vulnerable Servers	Mohammed Arif H
+2020-06-08	index of "backup.zip"	Files Containing Juicy Info	Hemant Patidar
+2020-06-08	"microsoft internet information services" ext:log	Files Containing Juicy Info	Reza Abasi
+2020-06-08	allintext:username filetype:log	Files Containing Usernames	Shivanshu Sharma
+2020-06-08	site:linkedin.com employees target.com	Footholds	Shamika Shewale
+2020-06-08	inurl:admin intitle:index of ext:sql | xls | xml | json | csv	Files Containing Juicy Info	Bhaskar Kumar
+2020-06-08	"index of /private" -site:net -site:com -site:org	Web Server Detection	Ashish More
+2020-06-08	intitle:.*edu/login	Pages Containing Login Portals	Abhi Chitkara
+2020-06-08	inurl:"customer.aspx"	Footholds	Mahesh Rai
+2020-06-08	intitle:"Dashboard [Jenkins]"	Sensitive Directories	Vidhun k
+2020-06-08	site: target.com ext:action | ext:struts | ext:do	Vulnerable Servers	Sushant Kamble
+2020-06-05	inurl:employee-login.php	Pages Containing Login Portals	Abhi Chitkara
+2020-06-05	intitle:"index of" "uploads.old"	Sensitive Directories	Abhi Chitkara
+2020-06-04	index.of:"pcap" -site:stackoverflow.com -site:github.com	Files Containing Juicy Info	JadeWolf
+2020-06-04	inurl:wp-content/plugins/yop-poll	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-04	intitle:"index of" "auth.config"	Files Containing Juicy Info	Abhi Chitkara
+2020-06-04	inurl:wp-content/plugins/wp-jobsearch	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-04	inurl:admin/login.jsp	Pages Containing Login Portals	AJAYSEN R
+2020-06-04	inurl:Cpanel/login.php	Pages Containing Login Portals	Md Anzaruddin
+2020-06-04	inurl:"forgotpassword.php"	Pages Containing Login Portals	Anjali Prakash
+2020-06-04	intitle:"index of" "log.bak"	Files Containing Juicy Info	Abhi Chitkara
+2020-06-04	site:*/auth.html intitle:login	Pages Containing Login Portals	Agrah Jain
+2020-06-04	intitle:index of config.asp	Files Containing Juicy Info	Abhinav Porwal
+2020-06-04	inurl:admin/upload.asp	Pages Containing Login Portals	Alexandros Pappas
+2020-06-04	inurl:wp-content/plugins/adrotate	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-04	allinurl:index.php?db=information_schema	Files Containing Juicy Info	Anjali Kashyap
+2020-06-04	intitle:"index of" "adminsubscribeack.txt"	Files Containing Juicy Info	Abhi Chitkara
+2020-06-04	inurl:wp-content/plugins/mappress-google-maps-for-wordpress	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-04	intitle:"index of" "auth_config.php"	Files Containing Juicy Info	Abhi Chitkara
+2020-06-04	intitle:"index of" "admin-login.php"	Pages Containing Login Portals	Abhi Chitkara
+2020-06-04	inurl:auth/Login	Pages Containing Login Portals	Suhanaz Kazi
+2020-06-04	inurl:emplogin.aspx	Pages Containing Login Portals	AJAYSEN R
+2020-06-04	"config.php.bak" intitle:"index of"	Files Containing Passwords	M.Harsha vardhan
+2020-06-04	inurl:wp-content/plugins/simple-file-list	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-04	allintitle: sensitive ext:doc OR ext:xls OR ext:xlsx	Sensitive Directories	Alexandros Pappas
+2020-06-04	inurl:"ReportServer/Pages/ReportViewer.aspx"	Files Containing Juicy Info	Anjali Prakash
+2020-06-04	Google Dork	Pages Containing Login Portals	Md Anzaruddin
+2020-06-04	intitle:"index of" "aws-config.php"	Files Containing Juicy Info	Abhi Chitkara
+2020-06-04	inurl:wp-content/plugins/final-tiles-grid-gallery-lite	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-04	"index of" "sshd_config"	Files Containing Juicy Info	Bhaskar Kumar
+2020-06-04	inurl:wp-content/plugins/woocommerce	Advisories and Vulnerabilities	Abhinav Porwal
+2020-06-04	intext:"Index of /password"	Files Containing Passwords	Abhi Chitkara
+2020-06-04	allinurl:top.htm?Currenttime	Various Online Devices	Alexandros Pappas
+2020-06-04	inurl:admin/login.aspx	Pages Containing Login Portals	Vikash Kumar
+2020-06-04	inurl:login.do?method=login	Pages Containing Login Portals	Abhinav Porwal
+2020-06-04	inurl:userlogin.do	Pages Containing Login Portals	Abhinav Porwal
+2020-06-04	intitle:"index of" "AT-admin.cgi"	Vulnerable Servers	Mohammed Arif H
+2020-06-04	intitle:"index of" "var/log/"	Files Containing Juicy Info	Apurva Badave
+2020-06-04	inurl:.drone.yml intext:git config user.email	Files Containing Juicy Info	Rajat Sharma
+2020-06-04	intitle:"index of" "security.php"	Files Containing Juicy Info	Abhinav Porwal
+2020-06-04	inurl:"/index.php?route=account/forgotten"	Pages Containing Login Portals	Reza Abasi
+2020-06-04	"index of" /private/logs	Files Containing Juicy Info	Ritik Sahni
+2020-06-04	"index of" ".env"	Files Containing Passwords	Ritik Sahni
+2020-06-04	intitle:"index of" ".config"	Files Containing Juicy Info	Abhi Chitkara
+2020-06-04	inurl:admin/admin/Login	Pages Containing Login Portals	Suhanaz Kazi
+2020-06-04	inurl:wp-content/plugins/ajax-load-more/lang/	Advisories and Vulnerabilities	Abhinav Porwal
+2020-06-04	intitle:"index of" inurl:ftp intext:admin	Sensitive Directories	Abhi Chitkara
+2020-06-04	filetype:sql intext: "sql dump"	Files Containing Juicy Info	andre vinicius
+2020-06-04	intitle:adminlogin inurl:login	Pages Containing Login Portals	Md Anzaruddin
+2020-06-04	inurl:/+CSCOE+/logon.html	Vulnerable Servers	Simgamsetti Manikanta
+2020-06-04	intext:"(c) GUnet 2003-2007"	Vulnerable Servers	Alexandros Pappas
+2020-06-04	"index of" /ftp/logs	Files Containing Juicy Info	Ritik Sahni
+2020-06-04	inurl:"passwordreset.asp"	Pages Containing Login Portals	Shivansh Kumar
+2020-06-04	"index of" "user.sqlite"	Files Containing Juicy Info	Shivani Kumari
+2020-06-04	intitle:"index of" "database/config"	Files Containing Juicy Info	Ravi Pavan
+2020-06-04	inurl:wp-content/plugins/final-tiles-grid-gallery-lite	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-04	inurl:resetpassword.do	Pages Containing Login Portals	Abhinav Porwal
+2020-06-04	inurl:/wp-content/plugins/wp-ecommerce-shop-styling/	Advisories and Vulnerabilities	Akash Solanki
+2020-06-04	inurl:emplogin.html	Pages Containing Login Portals	Pritam Singh
+2020-06-04	inurl:Cpanel/login.aspx	Pages Containing Login Portals	Md Anzaruddin
+2020-06-02	inurl:admlogin.php	Pages Containing Login Portals	Suhanaz Kazi
+2020-06-02	inurl:adminlogin.htm	Pages Containing Login Portals	Agrah Jain
+2020-06-02	ext:sql intext:"-- phpMyAdmin SQL Dump	Files Containing Juicy Info	Anjali Prakash
+2020-06-02	inurl:adminpanel.aspx	Pages Containing Login Portals	Deepesh Kumar Pandey
+2020-06-02	inurl:"resetpassword.jsf"	Pages Containing Login Portals	Abhinav Porwal
+2020-06-02	"Powered by Jira Service Desk"	Vulnerable Servers	Alexandros Pappas
+2020-06-02	inurl:"/forgotpassword.php"	Pages Containing Login Portals	Agrah Jain
+2020-06-02	site:*/password_forgotten.php	Pages Containing Login Portals	Reza Abasi
+2020-06-01	inurl:wp-content/plugins/bbPress	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-01	inurl:wp-content/plugins/gtranslate	Advisories and Vulnerabilities	Abhi Chitkara
+2020-06-01	inurl:admlogin.aspx	Pages Containing Login Portals	Vikash Kumar
+2020-05-29	inurl:forgotpassword.do	Pages Containing Login Portals	Janmejaya Swain
+2020-05-29	inurl:adminlogin.do	Pages Containing Login Portals	Janmejaya Swain
+2020-05-29	inurl:adminlogin.html	Pages Containing Login Portals	Deepesh Kumar Pandey
+2020-05-28	intitle:"index of" "system/config"	Sensitive Directories	Manish Kumar
+2020-05-28	inurl:wp-content/plugins/grand-media	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-28	inurl:adminlogin.jsp	Pages Containing Login Portals	Vikash Kumar
+2020-05-28	inurl:forgotpassword.htm	Pages Containing Login Portals	Janmejaya Swain
+2020-05-28	"login" intitle:"*dashboard login"	Pages Containing Login Portals	Alexandros Pappas
+2020-05-28	"login" intitle:"*scada login"	Pages Containing Login Portals	Alexandros Pappas
+2020-05-28	inurl:"resetpassword.asp"	Pages Containing Login Portals	Abhinav Porwal
+2020-05-28	intitle:"index of" "properties.ini"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-28	site:*/joomla/login	Pages Containing Login Portals	Mayank Chandelkar
+2020-05-28	inurl:wp-content/plugins/woo-order-export-lite	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-28	inurl:wp-content/plugins/iframe	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-28	"login" intitle:"*board login"	Pages Containing Login Portals	Alexandros Pappas
+2020-05-28	intitle:"index of" "admin/config"	Sensitive Directories	Manish Kumar
+2020-05-28	inurl:"passwordreset.php"	Pages Containing Login Portals	Abhinav Porwal
+2020-05-28	inurl:resetpassword.aspx	Pages Containing Login Portals	Abhinav Porwal
+2020-05-27	"index of" "/config/sql"	Sensitive Directories	Ritik Sahni
+2020-05-27	intitle:"ASUS" AND inurl:"Main_Login.asp" AND intext:"router account" -asus.com	Pages Containing Login Portals	BillyV4
+2020-05-27	inurl:adminlogin.php	Pages Containing Login Portals	Abhi Chitkara
+2020-05-27	inurl:login_admin "admin"	Pages Containing Login Portals	Ritik Sahni
+2020-05-27	inurl:forgotpassword.asp	Pages Containing Login Portals	Anjali Prakash
+2020-05-27	inurl:"wp-content/plugins/siteorigin-panels"	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-27	inurl:wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-27	intitle:"HP System Management Homepage" inurl:cpqlogin	Pages Containing Login Portals	BillyV4
+2020-05-27	inurl:"forgotpassword.aspx"	Pages Containing Login Portals	Manish Kumar
+2020-05-27	intitle:"HP ALM" "Application Lifecycle Management" inurl:/qcbin/ -ext:PDF	Various Online Devices	BillyV4
+2020-05-26	inurl:"wp-content/plugins/form-maker"	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-26	intitle:"Index of" intitle:"UserPro" -uploads	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-26	inurl:wp-content/plugins/official-mailerlite-sign-up-forms	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-26	inurl:"forgotpassword.jsf"	Pages Containing Login Portals	Abhi Chitkara
+2020-05-26	inurl:"index.php?option=com_ccnewsletter" inurl:sbid	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-26	inurl:wp-content/plugins/thirstyaffiliates	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-25	intitle:"Ice Hrm Login" intext:"Forgot Password"	Pages Containing Login Portals	Alexandros Pappas
+2020-05-25	inurl:pentaho/Login	Pages Containing Login Portals	Hilary Soita
+2020-05-25	inurl:":8088/cluster/apps"	Web Server Detection	Ozer Goker
+2020-05-25	inurl:login.jsf	Pages Containing Login Portals	Manish Kumar
+2020-05-25	"You need to be logged in to see your course progress."	Pages Containing Login Portals	Nitesh kumar pandey
+2020-05-22	inurl:client_id=	Pages Containing Login Portals	Alexandros Pappas
+2020-05-22	intext:"Error Occurred While Processing Request"	Error Messages	Alexandros Pappas
+2020-05-22	inurl:adminlogin.asp	Pages Containing Login Portals	Alexandros Pappas
+2020-05-22	inurl:enter.php?phpbb_root_path=	Pages Containing Login Portals	Alexandros Pappas
+2020-05-22	intitle:"ShowIt-Admin"	Pages Containing Login Portals	Alexandros Pappas
+2020-05-21	inurl:wp-content/plugins/ajax-load-more	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-21	intitle:"index of" "db.log"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-21	intitle:"index of" "api/admin"	Sensitive Directories	Abhi Chitkara
+2020-05-21	inurl:wp-content/plugins/visualcomposer	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-21	inurl:wp-content/plugins/paid-memberships-pro	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-21	intitle:"index of" "stacktrace.log"	Error Messages	Abhi Chitkara
+2020-05-21	inurl:admin.aspx	Pages Containing Login Portals	Abhi Chitkara
+2020-05-20	inurl:"index.php?option=com_jssupportticket"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-20	"LMS v3.0 - Xerone IT"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-20	intext:"Created by John Caruso" intext:"Created with Simple PHP Photo Gallery"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-20	inurl:"index.php?option=com_jssupportticket"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-20	intext:"W E L C O M E to R O O T" ext:cfg OR ext:log OR ext:txt	Files Containing Juicy Info	Alexandros Pappas
+2020-05-19	inurl:"index.php?option=com_fabrik"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-19	inurl:human.aspx intext:moveit	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-19	intitle:"Skipfish - scan results browser"	Network or Vulnerability Data	BillyV4
+2020-05-19	inurl:"sites/all/modules/ckeditor" -drupalcode.org	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-19	-site:"pentest-tools.com" intext:"Scan coverage information" AND "List of tests" ext:PDF	Network or Vulnerability Data	BillyV4
+2020-05-18	inurl:wp-content/plugins/photo-gallery	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-18	inurl:/emptyView4.html	Pages Containing Login Portals	MiningOmerta
+2020-05-18	site:*/auth/forgot	Pages Containing Login Portals	Reza Abasi
+2020-05-18	intitle:"index of" "tinyfilemanager.php"	Sensitive Directories	Abhi Chitkara
+2020-05-18	inurl:wp-content/plugins/easy-login-woocommerce	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-18	intitle:"WEBCAM 7 " -inurl:/admin.html	Various Online Devices	Nisankh Acharjya
+2020-05-18	intitle:"index of" "userdata.json"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-18	inurl:wp-content/plugins/team-members	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-18	inurl:wp-content/plugins/wp-product-review	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-15	intitle:"index of " "users.json"	Files Containing Juicy Info	ABHIJITH A
+2020-05-14	intitle:"index of" "wpadmin-secure.htaccess"	Files Containing Juicy Info	ABHIJITH A
+2020-05-14	inurl:wp-content/plugins/easy-testimonials	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-14	intitle:"index of" "privkey.pem"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-14	inurl:index.php?option=com_newsfeeds	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-14	intitle:"Nikto Report" "OSVDB"	Network or Vulnerability Data	BillyV4
+2020-05-14	inurl:"index.php?option=com_hdwplayer"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-14	inurl:wp-content/plugins/google-site-kit	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-13	intitle:"index of" "dhparams.pem"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-12	inurl:wp-content/plugins/page-builder	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-12	inurl:wp-content/plugins/chopslider	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-12	intitle:"index of" "token.txt"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-11	intitle:"index of" "refresh_token.txt" OR "access_token.txt" OR "jsapi_ticket.txt"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-11	intitle:"index of" "*root.pem"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-08	intitle:"index of" "configure.in"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-08	inurl:wp-content/plugins/elementor-pro	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-08	intitle:"index of" "cassandra-yaml"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-08	"index of" "adminer.php"	Pages Containing Login Portals	Jinson Varghese Behanan
+2020-05-08	intitle:"index of" "mvn-settings.xml"	Files Containing Juicy Info	BlackBelu.ga
+2020-05-08	"index of" "wp-config.zip"	Files Containing Juicy Info	Jinson Varghese Behanan
+2020-05-08	intitle:"index of" "jsapi_ticket.json"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-08	inurl:wp-content/plugins/ultimate-elementor	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-08	intitle:"index of" "user data.txt"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-07	intitle:"index of" "admin.jsp"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-07	intitle:"index of" "users.txt"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-07	intitle:"index of" "fullchain.pem" OR "chain.pem"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-07	intitle:"Index of" "backup-audio-queue.log" OR "backup-audio.log" OR "backup-mysql.log"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-07	intitle:"index of" "postgresql.conf"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-07	intitle:"index of" "config.neon" OR "config.local.neon"	Files Containing Passwords	Alexandros Pappas
+2020-05-07	intitle:"index of" "token_info.json" OR "get_access_token.json"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-07	intitle:"index of" "my-errors.log" OR "my-errors.logs"	Error Messages	Alexandros Pappas
+2020-05-07	intitle:"Index of" "ca-key.pem" OR "ca-req.pem"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-06	intitle:"index of" "debian-security.log"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-06	intitle:"index of" "auth.asc"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-06	intitle:"index of" "config.js"	Files Containing Juicy Info	Irshad Ahamed
+2020-05-06	intitle:"index of" "test/storage/framework/sessions/"	Sensitive Directories	Alexandros Pappas
+2020-05-06	site:*/asana/login	Pages Containing Login Portals	Irshad Ahamed
+2020-05-06	intitle:"index of" "login.docx"	Files Containing Juicy Info	Irshad Ahamed
+2020-05-06	intitle:"index of" "manage.py"	Files Containing Juicy Info	Irshad Ahamed
+2020-05-06	intitle:"index of" "queue.log"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-06	intitle:"index of" "config.rb"	Files Containing Juicy Info	Irshad Ahamed
+2020-05-06	site:*/dana-na/auth/welcome.cgi?p=rolelogo	Pages Containing Login Portals	MiningOmerta
+2020-05-06	site:*/EWS/Exchange.asmx	Various Online Devices	MiningOmerta
+2020-05-06	intitle:"index of" "web.log" OR "web.logs"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-06	inurl:/wp-content/themes/fruitful/	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-06	intitle:"index of" "google-api-private-key.json"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-06	site:*/Drupal/login	Pages Containing Login Portals	Adarsh Lal
+2020-05-06	intitle:"index of" "oauth-credentials.json"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-06	intitle:"index of" "symfony/config"	Sensitive Directories	Abhi Chitkara
+2020-05-06	intitle:"index of" "local.json"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-06	inurl:/wp-content/themes/traveler/	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-06	intitle:"index of" "backup.js"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-06	inurl:userportal/webpages/myaccount/login.jsp	Pages Containing Login Portals	Malkit Singh
+2020-05-06	intitle:"index of" "security.json"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-06	intitle:"Index of" test.logs	Files Containing Juicy Info	Alexandros Pappas
+2020-05-06	site:*/login/pass	Pages Containing Login Portals	Irshad Ahamed
+2020-05-06	intitle:"index of" "config.pl"	Files Containing Juicy Info	Irshad Ahamed
+2020-05-06	inurl:"wp-content/plugins/learnpress"	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-06	intitle:"index of" "secrets.py"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-06	inurl:"wp-content/plugins/ninja-forms"	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-06	intitle:"index of" "cfg.go"	Files Containing Juicy Info	Irshad Ahamed
+2020-05-05	intitle:"index of" "secret.js"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-05	inurl:administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=	Files Containing Juicy Info	Abhi Chitkara
+2020-05-05	index of /wp-content/themes/onetone/	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-05	intitle:"index of" "auth.log"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-05	intitle:"index of" "graphql/subscription"	Sensitive Directories	Abhi Chitkara
+2020-05-05	intitle:"index of" "Logins.txt"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-05	intitle:"index of" "/admin/backup"	Sensitive Directories	Juveria Banu
+2020-05-05	index of /wp-content/themes/avada	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-05	intitle:"index of" "keys.asc"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-05	intitle:"index of" "login.txt"	Files Containing Juicy Info	Juveria Banu
+2020-05-05	inurl:/gmap.php?id=	Various Online Devices	Abhi Chitkara
+2020-05-05	inurl:/db.php?path_local=	Various Online Devices	Abhi Chitkara
+2020-05-05	intitle:"index of" "passwords.xlsx"	Files Containing Passwords	Abhi Chitkara
+2020-05-05	inurl:/wp-content/themes/listingpro/	Advisories and Vulnerabilities	Abhi Chitkara
+2020-05-05	intitle:"index of" users.bak	Files Containing Juicy Info	Abhi Chitkara
+2020-05-04	intitle:"index of" "accounts.json"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-04	intitle:"index of" "admin.bak"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-04	intitle:"elFinder 2.1.x"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-04	inurl:/webmail/ intext:Powered by IceWarp Server	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-04	intitle:"index of" "/config.bak"	Files Containing Juicy Info	Tushar Kurunkar
+2020-05-04	inurl:www/delivery filetype:php	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-04	intitle:"OpenMeetings" intext:"Username or mail address"	Pages Containing Login Portals	M. Cory Billington
+2020-05-04	inurl:"/course/jumpto.php?jump="	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-04	inurl:/wp-content/themes/CherryFramework	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-04	intitle:"index of" "client_id.json"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-04	intitle:"index of" "api.yaml"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-04	intext:"laravel" ext:env intext:"db_password" -git	Files Containing Juicy Info	Alexandros Pappas
+2020-05-04	intitle:"WeatherLinkIP Configuration"	Various Online Devices	Nicholas Doropoulos
+2020-05-04	intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-04	intitle:"index of" "docker.yml"	Web Server Detection	Abhi Chitkara
+2020-05-04	intitle:"index of" "/yum.log"	Files Containing Juicy Info	Tushar Kurunkar
+2020-05-04	inurl:/dynamic/login.html intext:"Linksys Smart Wi-Fi Sign In"	Pages Containing Login Portals	Nicholas Doropoulos
+2020-05-04	inurl:zdm logon	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-04	intext:"Please Login" inurl:"/remote/login"	Advisories and Vulnerabilities	Alexandros Pappas
+2020-05-04	intitle:"index of" "admin/json"	Sensitive Directories	Abhi Chitkara
+2020-05-04	intitle:"index of" "settings.yaml"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-04	intitle:"index of" "/users.xls"	Files Containing Juicy Info	Tushar Kurunkar
+2020-05-01	intitle:"index of" "parameters.yml.test" OR "parameters.yml.dist"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-01	intitle:"index of" dataSources.local.xml	Files Containing Juicy Info	Abhi Chitkara
+2020-05-01	intitle:"index of" "users.ini"	Files Containing Juicy Info	Abhi Chitkara
+2020-05-01	intitle:"index of" "docker-cloud.yml"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-01	intitle:"index of" "database.json"	Files Containing Juicy Info	Alexandros Pappas
+2020-05-01	intitle:"index of" "/accounts.txt"	Files Containing Juicy Info	Tushar Kurunkar
+2020-02-03	accdb OR accde intitle:"index of" -pub -google -books	Files Containing Juicy Info	Bruno Schmid
+2020-01-29	-pub -pool intitle:"index of" db.key OR server.key OR ftp.key OR exchange.key OR host.key OR mail.key	Files Containing Juicy Info	Bruno Schmid
+2020-01-27	intitle:"index of" lesshsQ/ OR .lesshst/ -pool -pub	Files Containing Juicy Info	Bruno Schmid
+2020-01-27	intitle:"index of" ticket.conf	Files Containing Juicy Info	Bruno Schmid
+2020-01-27	intitle:"index of" crontab.conf	Files Containing Juicy Info	Bruno Schmid
+2020-01-23	"fetchmailrc" intitle:"index of" -linux	Files Containing Juicy Info	Bruno Schmid
+2020-01-21	inurl:"_notes/dwsync.xml"	Files Containing Juicy Info	Marcelo Ruz S.
+2020-01-09	intitle:"index of" "wp-security-audit-log"	Files Containing Juicy Info	Reza Abasi
+2019-12-30	"MailChimp API error:" ext:log	Files Containing Juicy Info	Michael Meade
+2019-12-18	inurl:"/fmi/webd" intitle:"FileMaker WebDirect"	Files Containing Juicy Info	Leandro Naranjo
+2019-12-16	[ipn] ext:log	Files Containing Juicy Info	Eka Syahwan
+2019-12-12	inurl:"web.config" & intext:"Data Source" & "User ID" & "Password" & "connectionString" & ext:config -git	Files Containing Juicy Info	Aamir Rehman
+2019-12-10	Navicat MySQL Data Transfer filetype:sql	Files Containing Juicy Info	Eka Syahwan
+2019-12-02	ext:sql intext:@gmail.com intext:e10adc3949ba59abbe56e057f20f883e	Files Containing Juicy Info	Parth S. Patel
+2019-11-22	filetype:"xls | xlsx | doc | docx | ppt | pptx | pdf" site:gov "FOUO" | "NOFORN" | "Confidential"	Files Containing Juicy Info	shivaGprasadh
+2019-11-21	intext:"@outlook.com" ext:log	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-20	intitle:"index of" "mail.log"	Files Containing Juicy Info	Reza Abasi
+2019-11-20	intext:"@gmail.com" ext:log	Files Containing Juicy Info	Reza Abasi
+2019-11-12	intitle:index.of "access.conf"	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-12	intitle:"index of" "ssh.yml"	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-11	intitle:"index of" "databases.yml"	Files Containing Juicy Info	Reza Abasi
+2019-11-05	intitle:index.of "private-key.pem"	Files Containing Juicy Info	Pankaj Kumar Thakur
+2019-11-05	intitle:"index of" inurl:ftp intext:logs	Files Containing Juicy Info	Dhaiwat Mehta
+2019-11-05	db_password filetype:env -site:github.com -git	Files Containing Juicy Info	Dhaiwat Mehta
+2019-11-04	intitle:index.of "key.txt"	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-04	intitle:index.of "credential.txt"	Files Containing Juicy Info	Ismail Tasdelen
+2019-11-04	"accounts.xlsx" ext:xlsx	Files Containing Juicy Info	Rohitreddy
+2019-11-04	intitle:index.of "userpass.txt"	Files Containing Juicy Info	Ismail Tasdelen
+2019-10-29	site:mypublicinbox.com intitle:email	Files Containing Juicy Info	Gerard Fuguet
+2019-10-22	site:*.freshservice.com/support/solutions	Files Containing Juicy Info	MiningOmerta
+2019-10-18	inurl:"/.vscode/sftp.json"	Files Containing Juicy Info	Maxime Westhoven
+2019-10-18	inurl:"/.vscode/ftp-sync.json"	Files Containing Juicy Info	Maxime Westhoven
+2019-10-18	intitle:"Index Of" intext:sftp-config.json	Files Containing Juicy Info	Maxime Westhoven
+2019-10-09	intitle:"index of" "web.config.txt"	Files Containing Juicy Info	Reza Abasi
+2019-09-27	site:*/wp-settings.php	Files Containing Juicy Info	Reza Abasi
+2019-09-25	site:*/logs/error.log	Files Containing Juicy Info	Reza Abasi
+2019-09-24	site:*/*/conf/httpd.conf	Files Containing Juicy Info	Reza Abasi
+2019-09-24	inurl:credentials.txt -github -git -gitlab	Files Containing Juicy Info	Dhaiwat Mehta
+2019-09-17	site:ftp.*.* index of: manifest.xml	Files Containing Juicy Info	Deepak Kumar
+2019-09-17	index.of "crossdomain.xml"	Files Containing Juicy Info	Mayur Parmar
+2019-09-16	intitle:"index of" "debian.conf"	Files Containing Juicy Info	Paras Arora
+2019-09-16	intitle:"index of" inurl:/*sql* filetype:log	Files Containing Juicy Info	The Dexter
+2019-09-13	intitle:"index of" "/mysql.log"	Files Containing Juicy Info	Reza Abasi
+2019-09-13	inurl:/application/config/database.php*	Files Containing Juicy Info	Renato Hormazabal
+2019-09-11	site:*/sitemap/sitemap.xml	Files Containing Juicy Info	Reza Abasi
+2019-09-10	"Scanned by Camscanner" filetype:pdf	Files Containing Juicy Info	Surya Teja Masanam
+2019-09-03	inurl: /config.txt ext:txt intext:	Files Containing Juicy Info	Abhishek Samaddar
+2019-08-28	site:*/phpMyAdmin/robots.txt	Files Containing Juicy Info	Reza Abasi
+2019-08-28	site:*/robots.txt intext:User-agent:	Files Containing Juicy Info	Reza Abasi
+2019-08-26	site:*/log/access_log	Files Containing Juicy Info	Reza Abasi
+2019-08-26	intitle:"index of" "debian.cnf"	Files Containing Juicy Info	Reza Abasi
+2019-08-22	ext:sql intext:"-- phpMyAdmin SQL Dump" -site:github.*	Files Containing Juicy Info	Reza Abasi
+2019-08-22	intitle:index.of.?.config.ini	Files Containing Juicy Info	Midhun Biju
+2019-08-21	site:docs.google.com inurl:forms | viewanalytics intext:see previous responses	Files Containing Juicy Info	Mohammed*_*
+2019-08-20	site:*/phpinfo.php intitle:"phpinfo()"	Files Containing Juicy Info	Reza Abasi
+2019-08-20	ext:sql intext:contrasena	Files Containing Juicy Info	Nicolas Varona Sosa
+2019-08-19	ext:sql intext:clave	Files Containing Juicy Info	Cristi Vlad
+2019-08-12	inurl:robots.txt site:gov + intext:password	Files Containing Juicy Info	Vaibhav Pareek
+2019-08-02	s3 site:amazonaws.com filetype:log	Files Containing Juicy Info	Mohammed*_*
+2019-07-30	intitle:"Index of" pass.txt	Files Containing Juicy Info	Mayur Parmar
+2019-07-30	inurl:/filedown.php?file=	Files Containing Juicy Info	Sayak Naskar
+2019-07-29	filetype:xls "nomina"	Files Containing Juicy Info	Drok3r
+2019-07-24	site:*.com intitle:"Thank You For Your Order" intext:Click Here to Download	Files Containing Juicy Info	Ayan Saha
+2019-07-12	site:https://docs.google.com/spreadsheets edit	Files Containing Juicy Info	Eliezer Rabadon
+2019-07-11	site:https://docs.google.com/spreadsheets responses	Files Containing Juicy Info	Francis Al Victoriano
+2019-07-08	site:https://docs.google.com/forms viewanalytics	Files Containing Juicy Info	Eliezer Rabadon
+2019-07-08	site:https://docs.google.com/forms responses	Files Containing Juicy Info	Eliezer Rabadon
+2019-06-24	inurl:"paypal.log" ext:log	Files Containing Juicy Info	Francis Al Victoriano
+2019-06-24	MAIL_HOST filetype:env	Files Containing Juicy Info	Francis Al Victoriano
+2019-06-20	intitle:"index of" unattend.xml	Files Containing Juicy Info	Bruno Schmid
+2019-06-19	site:https://docs.google.com/document/d/ password	Files Containing Juicy Info	anonymous
+2019-06-18	site:https://docs.google.com/spreadsheets/d/ password	Files Containing Juicy Info	anonymous
+2019-06-17	DB_USERNAME filetype:env	Files Containing Juicy Info	Francis Al Victoriano
+2019-06-05	inurl:old "index of" "wp-config.php"	Files Containing Juicy Info	Chris Rogers
+2019-06-04	s3 site:amazonaws.com filetype:sql	Files Containing Juicy Info	Dec0y
+2019-06-03	intitle:"index of" "W3SVC1"	Files Containing Juicy Info	Bruno Schmid
+2019-06-03	"/FTPSVC2" intitle:"index of"	Files Containing Juicy Info	Bruno Schmid
+2019-05-31	intext:user.sql intitle:index.of	Files Containing Juicy Info	Dec0y
+2019-05-31	intext:backup.sql intitle:index.of	Files Containing Juicy Info	Dec0y
+2019-05-31	s3 site:amazonaws.com filetype:xls login	Files Containing Juicy Info	acc3ssp0int
+2019-05-29	filetype:inc php -site:github.com -site:sourceforge.net	Files Containing Juicy Info	Dec0y
+2019-05-23	inurl:github.com intext:.ftpconfig -issues	Files Containing Juicy Info	vocuzi
+2019-05-16	site:global.gotomeeting.com inurl:recording	Files Containing Juicy Info	edm0nd
+2019-05-13	"keyed alike" site:gov filetype:pdf	Files Containing Juicy Info	edm0nd
+2019-05-13	intext:"config" intitle:"Index of .ssh"	Files Containing Juicy Info	vocuzi
+2019-05-08	"php class JConfig" AND inurl:configuration AND ext:"bak | old | pdf | php | txt"	Files Containing Juicy Info	Isaiah Puzon
+2019-05-07	jmeter.log filetype:log	Files Containing Juicy Info	ManhNho
+2019-05-06	intext:"the WordPress" inurl:wp-config ext:txt	Files Containing Juicy Info	Isaiah Puzon
+2019-05-06	intext:"@gmail.com" AND intext:"@yahoo.com" filetype:sql	Files Containing Juicy Info	Jayson Zabate
+2019-04-30	"passport" filetype:xls site:"*.edu.*" | site:"*.gov.*" | site:"*.com.*" | site:"*.org.*" | site:"*.net.*" | site:"*.mil.*"	Files Containing Juicy Info	Neat
+2019-04-12	ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:"admin" | intext:"root" | intext:"administrator" & intext:"password" | intext:"root" | intext:"admin" | intext:"administrator"	Files Containing Juicy Info	Miguel Santareno
+2019-04-12	intext:[To Parent Directory] & ext:sql | ext:cnf | ext:config | ext:log	Files Containing Juicy Info	Miguel Santareno
+2019-04-10	inurl:_vti_bin/sites.asmx?wsdl | intitle:_vti_bin/sites.asmx?wsdl	Files Containing Juicy Info	Miguel Santareno
+2019-03-11	inurl:/files/_log/ filetype:log	Files Containing Juicy Info	Thalysson Sarmento
+2019-03-01	intext:reports filetype:cache	Files Containing Juicy Info	Hussain Vohra
+2019-03-01	inurl:pipermail filetype:txt	Files Containing Juicy Info	Hussain Vohra
+2019-02-15	inurl:scanned & documents intitle:"index of" IT	Files Containing Juicy Info	Bruno Schmid
+2019-02-15	intitle:"index of" hosts.csv | firewalls.csv | linux.csv | windows.csv	Files Containing Juicy Info	Bruno Schmid
+2019-02-15	intitle:"index of" "hiberfil.sys"	Files Containing Juicy Info	Bruno Schmid
+2019-02-15	intitle:"index of" users.csv | credentials.csv | accounts.csv	Files Containing Juicy Info	Bruno Schmid
+2019-02-15	inurl:"/cgi-bin/WS_FTP.LOG"	Files Containing Juicy Info	FlyingFrog
+2019-02-11	intext:"Portador do CPF"	Files Containing Juicy Info	Alisson Moretto
+2019-01-09	inurl:apspassword	Files Containing Juicy Info	FlyingFrog
+2019-01-02	filetype:doc "Answer Key"	Files Containing Juicy Info	Kevin Randall
+2019-01-02	filetype:pub "ssh-rsa"	Files Containing Juicy Info	Kevin Randall
+2018-12-14	filetype:txt "Registration Code"	Files Containing Juicy Info	T3jv1l
+2018-12-14	intext:password "Login Info" filetype:txt	Files Containing Juicy Info	Kevin Randall
+2018-12-14	inurl:LOG.txt X-System folder	Files Containing Juicy Info	Steph Jensen
+2018-11-28	"site:ghostbin.com " / " "	Files Containing Juicy Info	CrimsonTorso
+2018-11-28	"site:hastebin.com " / " "	Files Containing Juicy Info	CrimsonTorso
+2018-11-14	filetype:rdp default.rdp	Files Containing Juicy Info	Kevin Randall
+2018-11-14	filetype:txt "License Key"	Files Containing Juicy Info	Kevin Randall
+2018-11-14	intitle:"index of" pagefile.sys	Files Containing Juicy Info	Bruno Schmid
+2018-11-07	inurl:/_vti_pvt/service.cnf | inurl:/_vti_inf.html | inurl:/_vti_bin/ | inurl:/_vti_bin/spsdisco.aspx	Files Containing Juicy Info	Miguel Santareno
+2018-10-29	intext:"Resource dumped by" intext:jcr -site:adobe.com	Files Containing Juicy Info	Sh3llb0y
+2018-10-24	ext:env intext:APP_ENV= | intext:APP_DEBUG= | intext:APP_KEY=	Files Containing Juicy Info	Nirmal Dahal
+2018-10-17	"[HKEY_CURRENT_USERSoftwareSimonTathamPuTTYSessions]" ext:reg	Files Containing Juicy Info	Dxtroyer
+2018-10-16	filetype:txt line vty 0 4	Files Containing Juicy Info	Kevin Randall
+2018-10-01	intext:Modified files in JOE when it aborted on JOE was aborted because the terminal closed	Files Containing Juicy Info	Gionathan Reale
+2018-09-26	intext:"please find attached" "login" | password ext:pdf	Files Containing Juicy Info	Bruno Schmid
+2018-09-24	configuration> + filetype:config -github.com	Files Containing Juicy Info	ManhNho
+2018-09-24	inurl:logs/gravityforms	Files Containing Juicy Info	Dhruv Gramopadhye
+2018-09-21	inurl:robots.txt intext:Disallow: /web.config	Files Containing Juicy Info	Miguel Santareno
+2018-09-18	/var/www/manage/storage/logs/laravel- ext:log	Files Containing Juicy Info	ManhNho
+2018-09-17	inurl:/yum.log | intitle:yum.log + ext:log	Files Containing Juicy Info	ManhNho
+2018-09-14	intitle:"index of" intext:twr.html	Files Containing Juicy Info	Gionathan Reale
+2018-09-12	intext:"class JConfig {" inurl:configuration.php	Files Containing Juicy Info	Gionathan Reale
+2018-09-12	intext:"define('DB_NAME'," ext:txt	Files Containing Juicy Info	Gionathan Reale
+2018-09-11	inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com	Files Containing Juicy Info	ManhNho
+2018-09-04	inurl:/wp-content/ai1wm-backups + wpress	Files Containing Juicy Info	Hesam Bazvand
+2018-09-04	intext:"PHP Version " ext:php intext:"disabled" intext:"Build Date" intext:"System" intext:"allow_url_fopen"	Files Containing Juicy Info	hehnope
+2018-08-29	ext:ppk ssh key -github.com -gitlab	Files Containing Juicy Info	ManhNho
+2018-08-28	inurl:conf/tomcat-users.xml -github	Files Containing Juicy Info	Bl4kd43m0n
+2018-08-21	inurl:elmah.axd intext:"Powered by ELMAH" -inurl:detail	Files Containing Juicy Info	NSIDE Attack Logic GmbH
+2018-08-15	inurl:login.php.bak	Files Containing Juicy Info	Gionathan Reale
+2018-08-14	intitle:"index of" ".travis.yml" | ".travis.xml"	Files Containing Juicy Info	Bruno Schmid
+2018-08-14	intitle:"index of" "laravel.log" | "main.yaml" | "server.cfg"	Files Containing Juicy Info	Bruno Schmid
+2018-08-13	intext:APIKey ext:js | xml | yml | txt | conf | py -github -stackoverflow intitle:"index of"	Files Containing Juicy Info	Bruno Schmid
+2018-08-13	intitle:"index of" ".gitignore"	Files Containing Juicy Info	Bruno Schmid
+2018-08-13	intitle:"index of" "config.yml" | "config.xml" intext:login | auth	Files Containing Juicy Info	Bruno Schmid
+2018-08-13	swiftmailer intitle:"index of" "smtp.yml" | "smtp.xml"	Files Containing Juicy Info	Bruno Schmid
+2018-08-13	intitle:"index of" "config.yml" | "config.xml" intext:login | auth	Files Containing Juicy Info	Bruno Schmid
+2018-08-08	inurl:lighttpd.conf lighttpd site:github.com	Files Containing Juicy Info	Anwar Ayoob
+2018-08-08	-site:smarty.net ext:tpl intext:"	Files Containing Juicy Info	Aamir Rehman
+2018-08-07	employee "training" intitle:index.of ext:doc | pdf | xls |docx |xlsx	Files Containing Juicy Info	Bruno Schmid
+2018-08-07	hardware | software "migration" intitle:index.of ext:xls | xlsx | doc | docx | pdf	Files Containing Juicy Info	Bruno Schmid
+2018-08-07	ext:log intext:"connection" intitle:"index of" -stackoverflow	Files Containing Juicy Info	Bruno Schmid
+2018-08-07	inurl:nginx.conf nginx site:github.com	Files Containing Juicy Info	Mufeed VH
+2018-08-07	intext:"successfully" intitle:"index of" config | log | logged -stackoverflow	Files Containing Juicy Info	Bruno Schmid
+2018-08-06	inurl:travis.yml tornado site:github.com	Files Containing Juicy Info	Mufeed VH
+2018-08-06	"var miner=new CryptoLoot.Anonymous" intext:CryptoLoot.Anonymous	Files Containing Juicy Info	SMII Mondher
+2018-08-03	inurl:"/p3p.xml" | intitle: "p3p.xml" -github.com	Files Containing Juicy Info	ManhNho
+2018-07-20	"air confirmation" "passenger(s)"	Files Containing Juicy Info	Rootkit_Pentester
+2018-07-17	inurl:"debug/default/view?panel=config"	Files Containing Juicy Info	Aamir Rehman
+2018-07-10	inurl:"root?originalDomain"	Files Containing Juicy Info	Bruno Schmid
+2018-07-06	filetype:txt Administrator:500:	Files Containing Juicy Info	Kevin Randall
+2018-07-03	intext:vmware virtual site:.gov filetype:xls | xlsx | doc | pdf	Files Containing Juicy Info	Bruno Schmid
+2018-07-03	filetype:xls | xlsx intext:software license site:.gov	Files Containing Juicy Info	Bruno Schmid
+2018-07-03	filetype:xls | xlsx intext:cisco -cisco.com site:.gov	Files Containing Juicy Info	Bruno Schmid
+2018-06-25	intitle:"This is pdfTeX, Version"	Files Containing Juicy Info	ManhNho
+2018-06-22	intext:cv OR intext:curriculum vitae "passport details" ext:doc -template	Files Containing Juicy Info	TheManyHatsClub
+2018-06-14	allintitle:restricted filetype:doc site:gov	Files Containing Juicy Info	Subhash Rawat
+2018-06-11	filetype:gitattributes intext:CHANGELOG.md -site:github.com	Files Containing Juicy Info	Alfie
+2018-06-06	filetype:env intext:AWS_SECRET	Files Containing Juicy Info	Amal Jossy
+2018-06-06	filetype:env intext:mail_host + intext:bluehost	Files Containing Juicy Info	Amal Jossy
+2018-05-29	AndroidManifest ext:xml -github -gitlab -googlesource	Files Containing Juicy Info	ManhNho
+2018-05-16	inurl:"?db_backup" | inurl:"dbbackup" -site:github.com "sql.gz" | "sql.tgz" | "sql.tar" | "sql.7z"	Files Containing Juicy Info	Bruno Schmid
+2018-05-11	inurl:fisheye AND inurl:changelog -site:atlassian.com -site:github.com -intext:"Log in to FishEye"	Files Containing Juicy Info	Dec0y
+2018-05-09	intitle:"Powered by Qualys SSL Labs"	Files Containing Juicy Info	Sang Bui
+2018-05-04	ext:txt {"wallet_address" :", "pool_address" : " ", "pool_password" -git	Files Containing Juicy Info	ManhNho
+2018-04-30	inurl:..//drivers/etc/ intitle:index of	Files Containing Juicy Info	Parth S. Patel
+2018-04-25	inurl:/daten/webyep-log.txt	Files Containing Juicy Info	Marcin W. Brzózka
+2018-04-25	inurl:/.well-known/security.txt	Files Containing Juicy Info	edm0nd
+2018-04-25	inurl:"/bigdump.php" + intitle:"BigDump ver."	Files Containing Juicy Info	ManhNho
+2018-04-16	ext:adr adr filetype:adr "bookmarks.adr"	Files Containing Juicy Info	Bruno Schmid
+2018-04-12	inurl:"/Setup/Default.aspx" "mojoPortal"	Files Containing Juicy Info	Bruno Schmid
+2018-04-12	intitle:"index.of.virtualbox" -mirror -mirrors -public -ubuntu.com -edu -pub	Files Containing Juicy Info	Bruno Schmid
+2018-04-09	"Declassified and Approved for Release by" filetype: pdf	Files Containing Juicy Info	ManhNho
+2018-04-05	intitle:"Index of /logs/" "lighttpd"	Files Containing Juicy Info	edm0nd
+2018-04-05	filetype:env intext:"APP_ENV"	Files Containing Juicy Info	Carlos E. Vieira
+2018-04-04	filetype:log inurl:"log" "[SERVER_SOFTWARE]"	Files Containing Juicy Info	Bruno Schmid
+2018-04-03	intitle:"Deluge: Web UI" inurl:":8112"	Files Containing Juicy Info	Pancaker
+2018-04-03	intitle:"Deluge: Web UI 1.3"	Files Containing Juicy Info	Pancaker
+2018-04-03	CakePHP filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values	Files Containing Juicy Info	Arya Usha
+2018-04-02	intext:"[***] Results from" + ext:txt + "snort-"	Files Containing Juicy Info	ManhNho
+2018-04-02	intext:database inurl:"laravel.log" ext:log	Files Containing Juicy Info	Bruno Schmid
+2018-04-02	dwsync.xml intitle:index of -gitlab -github	Files Containing Juicy Info	Bruno Schmid
+2018-04-02	allinurl:mc4wp-debug.log ext:log	Files Containing Juicy Info	Rootkit_Pentester
+2018-04-02	config.yaml intitle:"index of" vagrantfile	Files Containing Juicy Info	Bruno Schmid
+2018-03-27	intitle:"index of" inurl:"paypal" log	Files Containing Juicy Info	Bruno Schmid
+2018-03-26	intitle:"index of" intext:"pip-selfcheck.json"	Files Containing Juicy Info	vocuzi
+2018-03-22	intitle:"Proberv0." | inurl:/proberv.php	Files Containing Juicy Info	ManhNho
+2018-03-22	inurl:/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 | inurl:/?=PHPE9568F35-D428-11d2-A769-00AA001ACF42	Files Containing Juicy Info	ManhNho
+2018-03-20	intitle:"index of" .env	Files Containing Juicy Info	Bruno Schmid
+2018-03-20	intitle:"index of" docker-compose.yml	Files Containing Juicy Info	Bruno Schmid
+2018-03-16	inurl:/gravity_forms/logs ext:txt	Files Containing Juicy Info	Shadow0pz
+2018-03-16	filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES	Files Containing Juicy Info	screetsec
+2018-03-15	intext:"Dr.Web (R) Anti-virus. Virus base add-on" + ext:txt	Files Containing Juicy Info	ManhNho
+2018-03-12	inurl:"/etc/fail2ban/" + ext:conf	Files Containing Juicy Info	ManhNho
+2018-03-12	ext:pem "PRIVATE KEY" -site:facebook.com -example -test*	Files Containing Juicy Info	oni49
+2018-02-28	inurl:/fantastico_fileslist.txt + ext:txt	Files Containing Juicy Info	ManhNho
+2018-02-22	allinurl:awstats.pl?config=	Files Containing Juicy Info	Nishaanth Guna
+2018-02-20	inurl:"plesk-stat"	Files Containing Juicy Info	Cr33pB0y
+2018-02-20	inurl:"/xmlrpc.php?rsd" & ext:php	Files Containing Juicy Info	ManhNho
+2018-02-14	"[LocalizedFileNames]" inurl:"desktop.ini" ext:ini -git -wiki	Files Containing Juicy Info	Dxtroyer
+2018-02-14	"[Tera Term]" inurl:"teraterm.ini" ext:ini -git	Files Containing Juicy Info	Dxtroyer
+2018-02-14	allintitle:"Forum Post Assistant :" ext:php -site:joomla.org	Files Containing Juicy Info	Aamir Rehman
+2018-02-09	inurl:"main.php?action=db"	Files Containing Juicy Info	_palonE
+2018-02-08	inurl:module=coreHome	Files Containing Juicy Info	batgab
+2018-02-05	intitle:index.of intext:zc_install intitle:zen-cart	Files Containing Juicy Info	Sachin Wagh
+2018-01-26	"Email delivery powered by Google" ext:pdf OR ext:txt	Files Containing Juicy Info	Rootkit_Pentester
+2018-01-24	intitle:"PHP Web Stat - Sysinfo" intext:php inurl:stat/sysinfo.php	Files Containing Juicy Info	sandeep
+2018-01-22	"SiteBar Bookmark Manager" inurl:index.php?w=	Files Containing Juicy Info	Rootkit_Pentester
+2018-01-11	inurl:"test/php/test.html" Plesk File	Files Containing Juicy Info	Cr33pB0y
+2018-01-04	intitle:"rutorrent v3" AND intext:Uploaded -github.com	Files Containing Juicy Info	Pancaker
+2018-01-04	intitle:Kodi inurl:":8080" "Music. Music;"	Files Containing Juicy Info	anonymous
+2018-01-04	intitle:"Chorus 2 - Kodi web interface"	Files Containing Juicy Info	Pancaker
+2017-12-20	ext:pdf intext:"Category: Password Management: Hardcoded Password" intext:"Issues)"	Files Containing Juicy Info	Huijun Chen
+2017-12-12	intext:----- Begin SAP License ----- ext:txt	Files Containing Juicy Info	amon k3b
+2017-12-07	"Start of NVIDIA bug report log file" ext:log	Files Containing Juicy Info	Dxtroyer
+2017-12-07	"Do not distribute" (ext:pdf | ext:doc | ext:docx | ext:rtf)	Files Containing Juicy Info	Dxtroyer
+2017-12-07	intext:"Set objConn=Server.CreateObject("ADODB.Connection")" ext:asp	Files Containing Juicy Info	Aamir Rehman
+2017-12-07	intext:Server.MapPath(".mdb") ext:asp	Files Containing Juicy Info	Aamir Rehman
+2017-12-07	"OTL Extras logfile created on:" ext:txt	Files Containing Juicy Info	Dxtroyer
+2017-11-27	inurl:composer.json filetype:json -site:github.com	Files Containing Juicy Info	Vishnu Santhosh
+2017-11-27	intext:"softperms.txt" ext:TXT	Files Containing Juicy Info	Fu2x2000
+2017-11-20	"-- Dumping data for table" ext:sql	Files Containing Juicy Info	A1anoud Altoraif
+2017-11-15	inurl:"/horde/test.php"	Files Containing Juicy Info	Cameron Maerz
+2017-11-15	inurl:wp-links-opml.php	Files Containing Juicy Info	m0be1
+2017-10-23	inurl:"wp-security-audit-log" ext:log	Files Containing Juicy Info	anonymous
+2017-10-19	inurl:/Divi/Changelog.txt /Divi/Changelog.txt	Files Containing Juicy Info	anonymous
+2017-10-17	ext:txt | ext:conf | ext:inc | ext:doc intext:php class JConfig	Files Containing Juicy Info	anonymous
+2017-10-17	"QuickDiag" "by g3n-h@ckm@n" ext:txt	Files Containing Juicy Info	anonymous
+2017-10-17	"OTL logfile" "by OldTimer" ext:txt	Files Containing Juicy Info	anonymous
+2017-10-17	inurl:FileListAbsolute ext:txt	Files Containing Juicy Info	anonymous
+2017-10-10	filetype:tpl intext:mysql_connect	Files Containing Juicy Info	anonymous
+2017-10-10	ext:asax	Files Containing Juicy Info	anonymous
+2017-10-05	inurl:".hg/store/fncache"	Files Containing Juicy Info	anonymous
+2017-10-02	ext:vbproj	Files Containing Juicy Info	anonymous
+2017-09-20	ext:csproj	Files Containing Juicy Info	anonymous
+2017-09-14	inurl:scan_result_file	Files Containing Juicy Info	anonymous
+2017-09-11	inurl:/maint/repair.php?repair=1	Files Containing Juicy Info	anonymous
+2017-09-04	inurl:/secure/attachment/ filetype:log OR filetype:txt	Files Containing Juicy Info	anonymous
+2017-08-14	ext:log inurl:"/pgadmin"	Files Containing Juicy Info	anonymous
+2017-08-03	"-- Account dump" ext:sql -git	Files Containing Juicy Info	anonymous
+2017-07-28	inurl:"wp-content/uploads/file-manager/log.txt"	Files Containing Juicy Info	anonymous
+2017-07-28	"TX_start" "card_name" ext:log	Files Containing Juicy Info	anonymous
+2017-07-17	"You're successfully running JSON Server"	Files Containing Juicy Info	anonymous
+2017-06-26	"Blocking Reason:" ext:log -git	Files Containing Juicy Info	anonymous
+2017-06-26	inurl:"/logs/www" ext:log	Files Containing Juicy Info	anonymous
+2017-06-23	intext:uploadOverwrite || intext:OPEN || intext:cwd	Files Containing Juicy Info	anonymous
+2017-06-16	"[FFFTP]" ext:ini	Files Containing Juicy Info	anonymous
+2017-06-16	inurl:"/Windows/Cookies/" ext:txt -telecom -forbidden -git	Files Containing Juicy Info	anonymous
+2017-06-16	"Protocol=unreal" ext:ini -git	Files Containing Juicy Info	anonymous
+2017-06-15	"random's system information tool" ext:txt	Files Containing Juicy Info	anonymous
+2017-06-14	inurl:app/config/ intext:parameters.yml intitle:index.of	Files Containing Juicy Info	anonymous
+2017-06-14	inurl:"dcwp_twitter.php?1="	Files Containing Juicy Info	anonymous
+2017-06-12	"-----BEGIN X509 CERTIFICATE-----" ext:pem -git	Files Containing Juicy Info	anonymous
+2017-06-12	"-- MySQL Administrator dump" ext:sql	Files Containing Juicy Info	anonymous
+2017-06-12	"Consola de Joomla! Debug" inurl:index.php	Files Containing Juicy Info	anonymous
+2017-06-09	"START securepay" ext:log	Files Containing Juicy Info	anonymous
+2017-06-08	inurl:"idx_config"	Files Containing Juicy Info	anonymous
+2017-06-07	"KVP_ENCDATA:Version=1.0" ext:log	Files Containing Juicy Info	anonymous
+2017-05-29	"MiniToolBox by Farbar" ext:txt	Files Containing Juicy Info	anonymous
+2017-05-29	"Operating System Intel Recovery" ext:txt	Files Containing Juicy Info	anonymous
+2017-05-29	"WEB Browser Password Recovery" ext:txt	Files Containing Juicy Info	anonymous
+2017-05-24	inurl:core.windows.net ext:xlsx	Files Containing Juicy Info	anonymous
+2017-05-24	"-- MySQL dump" ext:sql -git	Files Containing Juicy Info	anonymous
+2017-05-17	inurl:"/data/urllist.txt" ext:txt -git	Files Containing Juicy Info	anonymous
+2017-05-12	"SECRET//NOFORN" ext:pdf	Files Containing Juicy Info	anonymous
+2017-05-11	"PHP Fatal error: require()" ext:log	Files Containing Juicy Info	anonymous
+2017-05-10	"Section" inurl:"xorg.conf" ext:conf -wiki	Files Containing Juicy Info	anonymous
+2017-05-08	"screen mode id:" ext:rdp	Files Containing Juicy Info	anonymous
+2017-05-08	inurl:"/Windows/Cookies/" ext:txt -git	Files Containing Juicy Info	anonymous
+2017-05-05	"HTTP" inurl:"access.log" ext:log	Files Containing Juicy Info	anonymous
+2017-05-05	inurl:"Makefile.in" ext:in	Files Containing Juicy Info	anonymous
+2017-05-03	"[dirs]" inurl:"mirc.ini" -git	Files Containing Juicy Info	anonymous
+2017-05-03	"InnoDB:" ext:log	Files Containing Juicy Info	anonymous
+2017-05-01	"/wp-admin/admin-ajax" ext:txt	Files Containing Juicy Info	anonymous
+2017-05-01	"Scan result of Farbar Recovery Scan Tool" ext:txt	Files Containing Juicy Info	anonymous
+2017-05-01	"# AdwCleaner" ext:txt	Files Containing Juicy Info	anonymous
+2017-04-28	"[PHPSESSID]" ext:log	Files Containing Juicy Info	anonymous
+2017-04-19	"Logfile of Trend Micro HijackThis" ext:log	Files Containing Juicy Info	anonymous
+2017-04-19	"LGD_CARDNUM" ext:log -site:camper.com	Files Containing Juicy Info	anonymous
+2017-04-17	"%@" ext:ascx	Files Containing Juicy Info	anonymous
+2017-04-17	"SERVER_ADDR" "SERVER_PORT" "SERVER_NAME" ext:log	Files Containing Juicy Info	anonymous
+2017-04-17	inurl:"mail" ext:mai	Files Containing Juicy Info	anonymous
+2017-04-12	"# This file was generated by libcurl! Edit at your own risk." ext:txt	Files Containing Juicy Info	anonymous
+2017-04-12	inurl:"/sitemap.xsd" ext:xsd	Files Containing Juicy Info	anonymous
+2017-04-12	inurl:"/fb_ca_chain_bundle.crt" ext:crt	Files Containing Juicy Info	anonymous
+2017-04-10	"havij report" "Target" ext:html	Files Containing Juicy Info	anonymous
+2017-04-10	intext:Table structure for table `wp_users` filetype:sql	Files Containing Juicy Info	anonymous
+2017-04-07	"PGP SIGNED MESSAGE-----" inurl:"md5sums"	Files Containing Juicy Info	anonymous
+2017-04-07	"Greenstone receptionist" inurl:"/etc/main.cfg"	Files Containing Juicy Info	anonymous
+2017-04-06	inurl:"/phpinfo.php" "PHP Version"	Files Containing Juicy Info	anonymous
+2017-04-04	"Fatal NI connect error" ", connecting to:" ext:log	Files Containing Juicy Info	anonymous
+2017-03-27	inurl:"/attachment/" ext:log	Files Containing Juicy Info	anonymous
+2017-03-27	inurl:"/irclogs/" ext:log	Files Containing Juicy Info	anonymous
+2017-03-21	filetype:pcmcfg	Files Containing Juicy Info	anonymous
+2017-02-23	httrack inurl:hts-log.txt ext:txt -github.com	Files Containing Juicy Info	anonymous
+2017-02-08	intitle:"FormAssembly Enterprise :"	Files Containing Juicy Info	anonymous
+2017-02-03	inurl:/o/oauth2 inurl:client_id	Files Containing Juicy Info	anonymous
+2017-01-26	inurl:iProber2.php ext:php	Files Containing Juicy Info	anonymous
+2016-12-12	allinurl: drive.google.com/open?id=	Files Containing Juicy Info	anonymous
+2016-12-07	inurl:"/debug/default" intitle:"Yii Debugger"	Files Containing Juicy Info	anonymous
+2016-11-18	inurl:ManageFilters.jspa?filterView=popular	Files Containing Juicy Info	anonymous
+2016-11-09	https://paper.dropbox.com inurl:/doc/	Files Containing Juicy Info	anonymous
+2016-10-27	"PHP Version" inurl:/php/phpinfo.php	Files Containing Juicy Info	anonymous
+2016-10-25	"[HKEY_CURRENT_USER\Software\sota\FFFTP]" filetype:reg	Files Containing Juicy Info	anonymous
+2016-10-24	inurl:calendar.google.com/calendar/embed?src=	Files Containing Juicy Info	anonymous
+2016-10-24	(@gmail.com || @yahoo.com || @hotmail.com) ext:php inurl:compose	Files Containing Juicy Info	anonymous
+2016-09-06	inurl:log -intext:log ext:log inurl:wp-	Files Containing Juicy Info	anonymous
+2016-09-05	inurl:wp-content/debug.log	Files Containing Juicy Info	anonymous
+2016-07-15	inurl:DiGIR.php	Files Containing Juicy Info	anonymous
+2016-07-07	filetype:sql intext:wp_users phpmyadmin	Files Containing Juicy Info	anonymous
+2016-07-04	"Index of /wp-content/uploads/backupbuddy_backups" zip	Files Containing Juicy Info	anonymous
+2016-07-01	intext:"/showme.asp" HTTP_ACCEPT	Files Containing Juicy Info	anonymous
+2016-07-01	intext:"/LM/W3SVC/" ext:asp	Files Containing Juicy Info	anonymous
+2016-05-20	filetype:txt "gmail" | "hotmail" | "yahoo" -robots site:gov | site:us	Files Containing Juicy Info	anonymous
+2016-05-20	inurl:vidyo -site:vidyo.com inurl:portal	Files Containing Juicy Info	anonymous
+2016-05-04	index of /wp-content/uploads/userpro	Files Containing Juicy Info	anonymous
+2016-04-29	site:github.com filetype:md | filetype:js | filetype:txt "xoxp-"	Files Containing Juicy Info	anonymous
+2016-04-29	inurl:configfile.cgi	Files Containing Juicy Info	anonymous
+2016-04-25	filetype:pdf intitle:"SSL Report"	Files Containing Juicy Info	anonymous
+2016-04-25	intitle:"Skipfish . scan"	Files Containing Juicy Info	anonymous
+2016-04-25	filetype:rcf inurl:vpn	Files Containing Juicy Info	anonymous
+2016-03-11	inurl:"sugarcrm.log" ext:log -git -google	Files Containing Juicy Info	anonymous
+2016-02-02	intitle:"TurnKey LAMP" intext:"turnkey lamp release notes" "Apache PHP information"	Files Containing Juicy Info	anonymous
+2016-01-29	inurl:haproxy-status site:example.com	Files Containing Juicy Info	anonymous
+2016-01-25	intext:"Microsoft(R) Server Maintenance Utility (Unicode)" ext:txt	Files Containing Juicy Info	anonymous
+2015-12-21	"Stats generated by pisg v0.73"	Files Containing Juicy Info	anonymous
+2015-12-14	inurl:http | -inurl:https inurl:ftp ext:pdf taxreturn	Files Containing Juicy Info	anonymous
+2015-12-14	inurl:"server-status" intext:"Apache Server Status"	Files Containing Juicy Info	anonymous
+2015-12-01	inurl:"trace" ext:axd intext:"password"	Files Containing Juicy Info	anonymous
+2015-11-23	-inurl:http | -inurl:https inurl:ftp ext:xls | ext:xlsx bank	Files Containing Juicy Info	anonymous
+2015-11-19	intitle:Tomcat Status | inurl:/status?full=true	Files Containing Juicy Info	anonymous
+2015-09-18	site:ws.kik.com | site:ws2.kik.com k=	Files Containing Juicy Info	anonymous
+2015-09-07	site:target.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini	Files Containing Juicy Info	anonymous
+2015-09-02	inurl:xampp inurl:perlinfo.pl ext:pl	Files Containing Juicy Info	anonymous
+2015-09-02	site:.edu | .gov ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup	Files Containing Juicy Info	anonymous
+2015-08-27	inurl:src/viewcvs.cgi/log/.c?=	Files Containing Juicy Info	anonymous
+2015-08-21	inurl: mil|/issue.php filetype:xls	Files Containing Juicy Info	anonymous
+2015-08-18	filetype:pac inurl:"/proxy"	Files Containing Juicy Info	anonymous
+2015-08-17	intext:/homedir/.cpanel-datastore/	Files Containing Juicy Info	anonymous
+2015-08-17	intext:bbdd index.of "/" "Parent Directory"	Files Containing Juicy Info	anonymous
+2015-08-12	inurl:cgi-bin ext:pl intext:"-rwxr-xr-x"	Files Containing Juicy Info	anonymous
+2015-08-10	intext:"Full path to a .htpasswd file in this dir:" filetype:php	Files Containing Juicy Info	anonymous
+2015-07-27	inurl:wp-admin/admin-ajax.php inurl:wp-config.php	Files Containing Juicy Info	anonymous
+2015-07-08	intext:OLD_FOREIGN_KEY_CHECKS"; = ext:txt	Files Containing Juicy Info	anonymous
+2015-07-08	inurl:access.cnf ext:cnf	Files Containing Juicy Info	anonymous
+2015-06-30	"Futon on Apache" inurl:_utils	Files Containing Juicy Info	anonymous
+2015-06-30	phpMyAdmin SQL Dump	Files Containing Juicy Info	anonymous
+2015-06-24	"signons.sqlite" intitle:"index of"	Files Containing Juicy Info	anonymous
+2015-06-10	intitle:"Index of" "mail" "Inbox" "Sent"	Files Containing Juicy Info	anonymous
+2015-06-10	filetype:pcf vpn OR Group	Files Containing Juicy Info	anonymous
+2015-06-10	intitle:"index of" "fic" "ndx"	Files Containing Juicy Info	anonymous
+2015-06-03	inurl:/dbg-wizard.php	Files Containing Juicy Info	anonymous
+2015-05-29	intitle:"index of" "archive.pst" -contrib	Files Containing Juicy Info	anonymous
+2015-05-26	filetype:pub inurl:ssh	Files Containing Juicy Info	anonymous
+2015-04-28	intext:JSESSIONID OR intext:PHPSESSID inurl:access.log ext:log	Files Containing Juicy Info	anonymous
+2015-03-31	intitle:index of /weekly cpbackup	Files Containing Juicy Info	anonymous
+2015-02-09	filetype:xml inurl:/WEB-INF/ inurl:ftp:// -www	Files Containing Juicy Info	anonymous
+2015-01-27	inurl:"/server-info" intext:"Loaded Modules"	Files Containing Juicy Info	anonymous
+2014-12-31	inurl:"installer-log.txt" intext:"DUPLICATOR INSTALL-LOG"	Files Containing Juicy Info	anonymous
+2014-12-11	ext:pem intext:BEGIN CERTIFICATE	Files Containing Juicy Info	anonymous
+2014-11-24	ext:log telnet intext:password	Files Containing Juicy Info	anonymous
+2014-11-24	filetype:mobileconfig intext:password OR intext:pass	Files Containing Juicy Info	anonymous
+2014-11-18	ext:txt inurl:gov intext:"Content-Type: text/plain; charset=utf-8" AND intext:"Received: from "	Files Containing Juicy Info	anonymous
+2014-11-17	ext:msg OR ext:eml site:gov OR site:edu	Files Containing Juicy Info	anonymous
+2014-10-21	filetype:log intext:org.apache.hadoop.hdfs	Files Containing Juicy Info	anonymous
+2014-10-09	(intext:mail AND intext:samAccountName) AND (filetype:xlsx OR filetype:xls OR filetype:csv OR filetype:txt)	Files Containing Juicy Info	anonymous
+2014-10-09	intext:5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8 AND (ext:txt OR ext:csv OR ext:xls OR ext:lst)	Files Containing Juicy Info	anonymous
+2014-09-15	"google confidential" filetype:pdf	Files Containing Juicy Info	anonymous
+2014-07-29	filetype:sql site:com and "insert into" admin "2014"	Files Containing Juicy Info	anonymous
+2014-07-04	filetype:sql site:gov and "insert into"	Files Containing Juicy Info	anonymous
+2014-06-03	("DMZ" | "Public IP" | "Private IP") filetype:xls	Files Containing Juicy Info	anonymous
+2014-03-31	filetype:pdf "acunetix website audit" "alerts summary"	Files Containing Juicy Info	anonymous
+2014-03-27	inurl:crossdomain filetype:xml intext:allow-access-from	Files Containing Juicy Info	anonymous
+2014-03-27	inurl:clientaccesspolicy filetype:xml intext:allow-from	Files Containing Juicy Info	anonymous
+2014-02-05	site:bitbucket.org inurl:.bash_history	Files Containing Juicy Info	anonymous
+2013-11-27	intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`, `user`, `password`) VALUES -github	Files Containing Juicy Info	anonymous
+2013-11-27	inurl:mikrotik filetype:backup	Files Containing Juicy Info	anonymous
+2013-11-25	filetype:bak (inurl:php | inurl:asp | inurl:rb)	Files Containing Juicy Info	anonymous
+2013-11-25	inurl:/wp-content/uploads/ filetype:sql	Files Containing Juicy Info	anonymous
+2013-11-25	inurl:config "fetch = +refs/heads/*:refs/remotes/origin/*"	Files Containing Juicy Info	anonymous
+2013-11-25	filetype:xml inurl:sitemap	Files Containing Juicy Info	anonymous
+2013-11-25	inurl:"jmx-console/HtmlAdaptor" intitle:Mbean	Files Containing Juicy Info	anonymous
+2013-11-25	inurl:github.com intext:sftp-conf.json +intext:/wp-content/	Files Containing Juicy Info	anonymous
+2013-11-25	inurl:tar filetype:gz	Files Containing Juicy Info	anonymous
+2013-11-25	site:github.com inurl:"known_hosts" "ssh-rsa"	Files Containing Juicy Info	anonymous
+2013-11-25	filetype:php intext:"PROJECT HONEY POT ADDRESS DISTRIBUTION SCRIPT"	Files Containing Juicy Info	anonymous
+2013-11-25	site:github.com inurl:"id_rsa" -inurl:"pub"	Files Containing Juicy Info	anonymous
+2013-09-24	intitle:index.of intext:.ssh	Files Containing Juicy Info	anonymous
+2013-09-24	inurl:*/webalizer/* intitle:"Usage Statistics"	Files Containing Juicy Info	anonymous
+2013-08-08	intitle:"WAMPSERVER Homepage" & intext:"Server Configuration"	Files Containing Juicy Info	anonymous
+2013-08-08	inurl:wp-content/uploads/dump.sql	Files Containing Juicy Info	anonymous
+2013-08-08	filetype:txt inurl:wp-config.txt	Files Containing Juicy Info	anonymous
+2013-08-08	inurl:fluidgalleries/dat/login.dat	Files Containing Juicy Info	anonymous
+2013-08-08	inurl:"zendesk.com/attachments/token" site:zendesk.com	Files Containing Juicy Info	anonymous
+2013-08-08	inurl:~~joomla3.txt filetype:txt	Files Containing Juicy Info	anonymous
+2013-08-08	filetype:txt inurl:~~Wordpress2.txt	Files Containing Juicy Info	anonymous
+2013-08-08	"information_schema" filetype:sql	Files Containing Juicy Info	anonymous
+2013-04-23	allintext: /iissamples/default/	Files Containing Juicy Info	anonymous
+2013-04-22	filetype:ini "This is the default settings file for new PHP installations"	Files Containing Juicy Info	anonymous
+2013-04-22	filetype:php -site:php.net intitle:phpinfo "published by the PHP Group"	Files Containing Juicy Info	anonymous
+2013-04-09	inurl:"php?id=" intext:"DB_Error Object "	Files Containing Juicy Info	anonymous
+2013-02-05	runtimevar softwareVersion=	Files Containing Juicy Info	anonymous
+2013-02-05	ext:gnucash	Files Containing Juicy Info	anonymous
+2012-12-31	inurl:admin intext:username= AND email= AND password= OR pass= filetype:xls	Files Containing Juicy Info	anonymous
+2012-12-06	inurl:newsnab/www/ automated.config.php	Files Containing Juicy Info	anonymous
+2012-11-02	inurl:.com/configuration.php-dist	Files Containing Juicy Info	anonymous
+2012-08-21	filetype:docx Domain Registrar $user $pass	Files Containing Juicy Info	anonymous
+2012-08-21	filetype:avastlic	Files Containing Juicy Info	anonymous
+2012-08-21	inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]"	Files Containing Juicy Info	anonymous
+2012-05-15	?intitle:index.of?".mysql_history"	Files Containing Juicy Info	anonymous
+2012-05-15	intext:"Thank you for your purchase/trial of ALWIL Software products.:"	Files Containing Juicy Info	anonymous
+2012-05-15	intext:"~~Joomla1.txt" title:"Index of /"	Files Containing Juicy Info	anonymous
+2011-12-27	allintext:D.N.I filetype:xls	Files Containing Juicy Info	anonymous
+2011-12-19	List of Phone Numbers (In XLS File ) allinurl:telefonos filetype:xls	Files Containing Juicy Info	anonymous
+2011-12-19	Microsoft-IIS/7.0 intitle:index.of name size	Files Containing Juicy Info	anonymous
+2011-12-16	Google Dork inurl:Curriculum Vitale filetype:doc ( Vital Informaticon , Addres, Telephone Numer, SSN , Full Name, Work , etc ) In Spanish.	Files Containing Juicy Info	anonymous
+2011-12-16	Google Dork For Social Security Number ( In Spain and Argentina is D.N.I )	Files Containing Juicy Info	anonymous
+2011-11-24	filetype:old (mysql_connect) ()	Files Containing Juicy Info	anonymous
+2011-11-24	filetype:old (define)(DB_USER|DB_PASS|DB_NAME)	Files Containing Juicy Info	anonymous
+2011-11-19	intitle:index.of? configuration.php.zip	Files Containing Juicy Info	anonymous
+2011-11-19	inurl:"/includes/config.php"	Files Containing Juicy Info	anonymous
+2011-11-19	inurl:"trace.axd" ext:axd "Application Trace"	Files Containing Juicy Info	anonymous
+2011-11-19	filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS	Files Containing Juicy Info	anonymous
+2011-09-26	+intext:"AWSTATS DATA FILE" filetype:txt	Files Containing Juicy Info	anonymous
+2011-08-25	filetype:ini "Bootstrap.php" (pass|passwd|password|pwd)	Files Containing Juicy Info	anonymous
+2011-07-26	inurl:server-info intitle:"Server Information" Apache Server Information	Files Containing Juicy Info	anonymous
+2011-07-26	filetype:pem "Microsoft"	Files Containing Juicy Info	anonymous
+2011-07-18	site:stashbox.org cv Or resume OR curriculum vitae filetype:pdf OR doc	Files Containing Juicy Info	anonymous
+2011-07-18	site:docs.google.com intitle:(cv Or resume OR curriculum vitae)	Files Containing Juicy Info	anonymous
+2011-07-18	site:mediafire.com cv Or resume OR curriculum vitae filetype:pdf OR doc	Files Containing Juicy Info	anonymous
+2011-07-18	inurl:/push/ .pem apns -"push notifications" "bag attributes"	Files Containing Juicy Info	anonymous
+2011-07-01	site:dl.dropbox.com filetype:pdf cv OR curriculum vitae OR resume	Files Containing Juicy Info	anonymous
+2011-05-26	inurl:sarg inurl:siteuser.html	Files Containing Juicy Info	anonymous
+2011-05-03	allinurl:http://www.google.co.in/latitude/apps/badge/api?user=	Files Containing Juicy Info	anonymous
+2011-05-03	filetype:xls + password + inurl:.com	Files Containing Juicy Info	anonymous
+2011-02-24	intext:db_pass inurl:settings.ini	Files Containing Juicy Info	anonymous
+2011-02-19	inurl:app/etc/local.xml	Files Containing Juicy Info	anonymous
+2010-12-13	allinurl:/xampp/security.php	Files Containing Juicy Info	anonymous
+2010-12-10	inurl:phpinfo.php	Files Containing Juicy Info	anonymous
+2010-12-07	inurl:configuration.php-dist	Files Containing Juicy Info	anonymous
+2010-12-07	inurl:"config.php.new" +vbulletin	Files Containing Juicy Info	anonymous
+2010-11-25	filetype: log inurl:"access.log" +intext:"HTTP/1.1"	Files Containing Juicy Info	anonymous
+2010-11-10	filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS	Files Containing Juicy Info	anonymous
+2010-11-10	"Cisco PIX Security Appliance Software Version" + "Serial Number" + "show ver" -inurl	Files Containing Juicy Info	anonymous
+2006-10-02	intitle:"AppServ Open Project *" "AppServ is a merging open source software installer package" -phpbb	Files Containing Juicy Info	anonymous
+2006-03-21	intitle:"LOGREP - Log file reporting system" -site:itefix.no	Files Containing Juicy Info	anonymous
+2006-03-18	intitle:"Joomla - Web Installer"	Files Containing Juicy Info	anonymous
+2006-03-18	(intitle:"PRTG Traffic Grapher" inurl:"allsensors")|(intitle:"PRTG Traffic Grapher - Monitoring Results")	Files Containing Juicy Info	anonymous
+2006-02-22	"not for public release" -.edu -.gov -.mil	Files Containing Juicy Info	anonymous
+2006-01-16	inurl:build.err	Files Containing Juicy Info	anonymous
+2006-01-16	intext:ViewCVS inurl:Settings.php	Files Containing Juicy Info	anonymous
+2005-12-22	inurl:/cgi-bin/pass.txt	Files Containing Juicy Info	anonymous
+2005-12-19	(intitle:WebStatistica inurl:main.php) | (intitle:"WebSTATISTICA server") -inurl:statsoft -inurl:statsoftsa -inurl:statsoftinc.com -edu -software -rob	Files Containing Juicy Info	anonymous
+2005-11-24	inurl:wp-mail.php + "There doesn't seem to be any new mail."	Files Containing Juicy Info	anonymous
+2005-11-16	intitle:"Welcome to F-Secure Policy Manager Server Welcome Page"	Files Containing Juicy Info	anonymous
+2005-10-22	intitle:Bookmarks inurl:bookmarks.html "Bookmarks	Files Containing Juicy Info	anonymous
+2005-10-04	intitle:"urchin (5|3|admin)" ext:cgi	Files Containing Juicy Info	anonymous
+2005-09-08	rdbqds -site:.edu -site:.mil -site:.gov	Files Containing Juicy Info	anonymous
+2005-08-23	contacts ext:wml	Files Containing Juicy Info	anonymous
+2005-08-16	intitle:"admin panel" +"Powered by RedKernel"	Files Containing Juicy Info	anonymous
+2005-08-12	intitle:"curriculum vitae" filetype:doc	Files Containing Juicy Info	anonymous
+2005-07-30	ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:"budget approved") inurl:confidential	Files Containing Juicy Info	anonymous
+2005-07-24	site:www.mailinator.com inurl:ShowMail.do	Files Containing Juicy Info	anonymous
+2005-07-21	allinurl:cdkey.txt	Files Containing Juicy Info	anonymous
+2005-07-08	filetype:PS ps	Files Containing Juicy Info	anonymous
+2005-06-21	filetype:QBW qbw	Files Containing Juicy Info	anonymous
+2005-06-07	inurl:XcCDONTS.asp	Files Containing Juicy Info	anonymous
+2005-04-27	ext:DBF DBF	Files Containing Juicy Info	anonymous
+2005-04-27	ext:CDX CDX	Files Containing Juicy Info	anonymous
+2005-04-27	ext:ccm ccm -catacomb	Files Containing Juicy Info	anonymous
+2005-04-27	ext:DCA DCA	Files Containing Juicy Info	anonymous
+2005-04-27	ext:jbf jbf	Files Containing Juicy Info	anonymous
+2005-04-26	ext:plist filetype:plist inurl:bookmarks.plist	Files Containing Juicy Info	anonymous
+2005-04-26	ext:ics ics	Files Containing Juicy Info	anonymous
+2005-04-26	"MacHTTP" filetype:log inurl:machttp.log	Files Containing Juicy Info	anonymous
+2005-03-30	allinurl:"weblog/referrers"	Files Containing Juicy Info	anonymous
+2005-03-02	inurl:getmsg.html intitle:hotmail	Files Containing Juicy Info	anonymous
+2005-02-28	"#mysql dump" filetype:sql 21232f297a57a5a743894a0e4a801fc3	Files Containing Juicy Info	anonymous
+2005-02-28	+"HSTSNR" -"netop.com"	Files Containing Juicy Info	anonymous
+2005-02-15	filetype:ora tnsnames	Files Containing Juicy Info	anonymous
+2005-02-15	-site:php.net -"The PHP Group" inurl:source inurl:url ext:pHp	Files Containing Juicy Info	anonymous
+2005-02-15	intitle:"web server status" SSH Telnet	Files Containing Juicy Info	anonymous
+2005-01-27	ext:reg "username=*" putty	Files Containing Juicy Info	anonymous
+2005-01-27	intitle:"edna:streaming mp3 server" -forums	Files Containing Juicy Info	anonymous
+2005-01-27	inurl:netscape.ini	Files Containing Juicy Info	anonymous
+2005-01-27	inurl:netscape.hst	Files Containing Juicy Info	anonymous
+2005-01-27	inurl:"bookmark.htm"	Files Containing Juicy Info	anonymous
+2005-01-27	inurl:netscape.hst	Files Containing Juicy Info	anonymous
+2005-01-22	ext:txt inurl:dxdiag	Files Containing Juicy Info	anonymous
+2005-01-13	intitle:"FTP root at"	Files Containing Juicy Info	anonymous
+2005-01-02	intext:gmail invite intext:http://gmail.google.com/gmail/a	Files Containing Juicy Info	anonymous
+2005-01-02	filetype:ctt "msn"	Files Containing Juicy Info	anonymous
+2005-01-02	filetype:ctt Contact	Files Containing Juicy Info	anonymous
+2004-12-30	intitle:"index.of" .diz .nfo last modified	Files Containing Juicy Info	anonymous
+2004-12-30	filetype:cnf inurl:_vti_pvt access.cnf	Files Containing Juicy Info	anonymous
+2004-12-30	filetype:blt "buddylist"	Files Containing Juicy Info	anonymous
+2004-12-19	inurl:preferences.ini "[emule]"	Files Containing Juicy Info	anonymous
+2004-12-19	intitle:"welcome.to.squeezebox"	Files Containing Juicy Info	anonymous
+2004-12-19	ext:conf inurl:rsyncd.conf -cvs -man	Files Containing Juicy Info	anonymous
+2004-12-13	inurl:ds.py	Files Containing Juicy Info	anonymous
+2004-12-13	ext:dat bpk.dat	Files Containing Juicy Info	anonymous
+2004-12-05	php-addressbook "This is the addressbook for *" -warning	Files Containing Juicy Info	anonymous
+2004-12-05	"Generated by phpSystem"	Files Containing Juicy Info	anonymous
+2004-12-04	intitle:"Multimon UPS status page"	Files Containing Juicy Info	anonymous
+2004-12-04	inurl:"/axs/ax-admin.pl" -script	Files Containing Juicy Info	anonymous
+2004-12-03	ext:vmx vmx	Files Containing Juicy Info	anonymous
+2004-12-03	ext:vmdk vmdk	Files Containing Juicy Info	anonymous
+2004-12-03	ext:pqi pqi -database	Files Containing Juicy Info	anonymous
+2004-12-03	ext:gho gho	Files Containing Juicy Info	anonymous
+2004-11-28	intitle:"PHP Advanced Transfer" (inurl:index.php | inurl:showrecent.php )	Files Containing Juicy Info	anonymous
+2004-11-28	intitle:"DocuShare" inurl:"docushare/dsweb/" -faq	Files Containing Juicy Info	anonymous
+2004-11-28	ext:txt "Final encryption key"	Files Containing Juicy Info	anonymous
+2004-11-23	"Microsoft (R) Windows * (TM) Version * DrWtsn32 Copyright (C)" ext:log	Files Containing Juicy Info	anonymous
+2004-11-21	intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)	Files Containing Juicy Info	anonymous
+2004-11-20	inurl:report "EVEREST Home Edition "	Files Containing Juicy Info	anonymous
+2004-11-18	intitle:"PhpMyExplorer" inurl:"index.php" -cvs	Files Containing Juicy Info	anonymous
+2004-11-18	filetype:myd myd -CVS	Files Containing Juicy Info	anonymous
+2004-11-18	intitle:phpinfo "PHP Version"	Files Containing Juicy Info	anonymous
+2004-11-16	filetype:ns1 ns1	Files Containing Juicy Info	anonymous
+2004-11-16	ext:cgi inurl:editcgi.cgi inurl:file=	Files Containing Juicy Info	anonymous
+2004-11-16	filetype:config web.config -CVS	Files Containing Juicy Info	anonymous
+2004-11-12	filetype:pst pst -from -to -date	Files Containing Juicy Info	anonymous
+2004-11-07	inurl:"putty.reg"	Files Containing Juicy Info	anonymous
+2004-11-07	ext:conf NoCatAuth -cvs	Files Containing Juicy Info	anonymous
+2004-11-05	filetype:inf inurl:capolicy.inf	Files Containing Juicy Info	anonymous
+2004-11-05	"Certificate Practice Statement" inurl:(PDF | DOC)	Files Containing Juicy Info	anonymous
+2004-10-31	filetype:php inurl:index inurl:phpicalendar -site:sourceforge.net	Files Containing Juicy Info	anonymous
+2004-10-31	intitle:"AppServ Open Project" -site:www.appservnetwork.com	Files Containing Juicy Info	anonymous
+2004-10-31	intitle:"Web Server Statistics for ****"	Files Containing Juicy Info	anonymous
+2004-10-24	intitle:"Index of" upload size parent directory	Files Containing Juicy Info	anonymous
+2004-10-20	inurl:log.nsf -gov	Files Containing Juicy Info	anonymous
+2004-10-20	ext:nsf nsf -gov -mil	Files Containing Juicy Info	anonymous
+2004-10-19	intitle:"index.of *" admin news.asp configview.asp	Files Containing Juicy Info	anonymous
+2004-10-18	inurl:cgi-bin/testcgi.exe "Please distribute TestCGI"	Files Containing Juicy Info	anonymous
+2004-10-18	ext:mdb inurl:*.mdb inurl:fpdb shop.mdb	Files Containing Juicy Info	anonymous
+2004-10-16	"Installed Objects Scanner" inurl:default.asp	Files Containing Juicy Info	anonymous
+2004-10-16	intitle:"ASP Stats Generator *.*" "ASP Stats Generator" "2003-2004 weppos"	Files Containing Juicy Info	anonymous
+2004-10-16	ext:ini intext:env.ini	Files Containing Juicy Info	anonymous
+2004-10-09	inurl:odbc.ini ext:ini -cvs	Files Containing Juicy Info	anonymous
+2004-10-05	intext:SQLiteManager inurl:main.php	Files Containing Juicy Info	anonymous
+2004-09-29	+":8080" +":3128" +":80" filetype:txt	Files Containing Juicy Info	anonymous
+2004-09-23	ext:ldif ldif	Files Containing Juicy Info	anonymous
+2004-09-23	inurl:/_layouts/settings	Files Containing Juicy Info	anonymous
+2004-09-22	filetype:vcs vcs	Files Containing Juicy Info	anonymous
+2004-09-21	ext:log "Software: Microsoft Internet Information Services *.*"	Files Containing Juicy Info	anonymous
+2004-09-18	filetype:asp DBQ=" * Server.MapPath("*.mdb")	Files Containing Juicy Info	anonymous
+2004-09-18	inurl:"/names.nsf?OpenDatabase"	Files Containing Juicy Info	anonymous
+2004-09-11	filetype:pst inurl:"outlook.pst"	Files Containing Juicy Info	anonymous
+2004-09-10	filetype:pot inurl:john.pot	Files Containing Juicy Info	anonymous
+2004-09-10	filetype:pdb pdb backup (Pilot | Pluckerdb)	Files Containing Juicy Info	anonymous
+2004-09-10	filetype:xls inurl:"email.xls"	Files Containing Juicy Info	anonymous
+2004-09-07	inurl:snitz_forums_2000.mdb	Files Containing Juicy Info	anonymous
+2004-09-07	filetype:rdp rdp	Files Containing Juicy Info	anonymous
+2004-09-07	filetype:reg "Terminal Server Client"	Files Containing Juicy Info	anonymous
+2004-09-06	filetype:qbb qbb	Files Containing Juicy Info	anonymous
+2004-09-06	filetype:bkf bkf	Files Containing Juicy Info	anonymous
+2004-08-26	( filetype:mail | filetype:eml | filetype:mbox | filetype:mbx ) intext:password|subject	Files Containing Juicy Info	anonymous
+2004-08-25	filetype:QDF QDF	Files Containing Juicy Info	anonymous
+2004-08-19	"phone * * *" "address *" "e-mail" intitle:"curriculum vitae"	Files Containing Juicy Info	anonymous
+2004-08-13	ext:asp inurl:pathto.asp	Files Containing Juicy Info	anonymous
+2004-08-09	intext:"Session Start * * * *:*:* *" filetype:log	Files Containing Juicy Info	anonymous
+2004-08-09	filetype:xls -site:gov inurl:contact	Files Containing Juicy Info	anonymous
+2004-08-09	mail filetype:csv -site:gov intext:name	Files Containing Juicy Info	anonymous
+2004-08-09	(inurl:"robot.txt" | inurl:"robots.txt" ) intext:disallow filetype:txt	Files Containing Juicy Info	anonymous
+2004-08-05	filetype:cfg auto_inst.cfg	Files Containing Juicy Info	anonymous
+2004-08-05	filetype:fp7 fp7	Files Containing Juicy Info	anonymous
+2004-08-05	filetype:fp3 fp3	Files Containing Juicy Info	anonymous
+2004-08-02	filetype:fp5 fp5 -site:gov -site:mil -"cvs log"	Files Containing Juicy Info	anonymous
+2004-08-02	inurl:*db filetype:mdb	Files Containing Juicy Info	anonymous
+2004-08-02	"allow_call_time_pass_reference" "PATH_INFO"	Files Containing Juicy Info	anonymous
+2004-08-01	filetype:ora ora	Files Containing Juicy Info	anonymous
+2004-07-28	intitle:"Index Of" -inurl:maillog maillog size	Files Containing Juicy Info	anonymous
+2004-07-26	inurl:backup filetype:mdb	Files Containing Juicy Info	anonymous
+2004-07-26	data filetype:mdb -site:gov -site:mil	Files Containing Juicy Info	anonymous
+2004-07-26	intitle:"Index Of" cookies.txt "size"	Files Containing Juicy Info	anonymous
+2004-07-26	inurl:profiles filetype:mdb	Files Containing Juicy Info	anonymous
+2004-07-26	intext:(password | passcode) intext:(username | userid | user) filetype:csv	Files Containing Juicy Info	anonymous
+2004-07-26	inurl:email filetype:mdb	Files Containing Juicy Info	anonymous
+2004-07-26	inurl:forum filetype:mdb	Files Containing Juicy Info	anonymous
+2004-07-21	intitle:"index of" +myd size	Files Containing Juicy Info	anonymous
+2004-07-19	"sets mode: +s"	Files Containing Juicy Info	anonymous
+2004-07-19	"sets mode: +p"	Files Containing Juicy Info	anonymous
+2004-07-15	inurl:ssl.conf filetype:conf	Files Containing Juicy Info	anonymous
+2004-07-12	BEGIN (CERTIFICATE|DSA|RSA) filetype:csr	Files Containing Juicy Info	anonymous
+2004-07-12	BEGIN (CERTIFICATE|DSA|RSA) filetype:key	Files Containing Juicy Info	anonymous
+2004-07-12	e-mail address filetype:csv csv	Files Containing Juicy Info	anonymous
+2004-07-06	filetype:conf inurl:unrealircd.conf -cvs -gentoo	Files Containing Juicy Info	anonymous
+2004-07-06	"# Dumping data for table (username|user|users|password)"	Files Containing Juicy Info	anonymous
+2004-07-06	intitle:"Welcome to ntop!"	Files Containing Juicy Info	anonymous
+2004-07-02	filetype:mny mny	Files Containing Juicy Info	anonymous
+2004-06-25	inurl:/public/?Cmd=contents	Files Containing Juicy Info	anonymous
+2004-06-22	filetype:ctt ctt messenger	Files Containing Juicy Info	anonymous
+2004-06-10	94FBR "ADOBE PHOTOSHOP"	Files Containing Juicy Info	anonymous
+2004-05-26	inurl:forward filetype:forward -cvs	Files Containing Juicy Info	anonymous
+2004-05-24	intitle:"System Statistics" +"System and Network Information Center"	Files Containing Juicy Info	anonymous
+2004-05-24	intitle:"Big Sister" +"OK Attention Trouble"	Files Containing Juicy Info	anonymous
+2004-05-24	intitle:"System Statistics" +"System and Network Information Center"	Files Containing Juicy Info	anonymous
+2004-05-24	inurl:"cacti" +inurl:"graph_view.php" +"Settings Tree View" -cvs -RPM	Files Containing Juicy Info	anonymous
+2004-05-18	"Mecury Version" "Infastructure Group"	Files Containing Juicy Info	anonymous
+2004-05-17	inurl:php.ini filetype:ini	Files Containing Juicy Info	anonymous
+2004-05-17	intitle:intranet inurl:intranet +intext:"phone"	Files Containing Juicy Info	anonymous
+2004-05-14	filetype:log cron.log	Files Containing Juicy Info	anonymous
+2004-05-14	filetype:blt blt +intext:screenname	Files Containing Juicy Info	anonymous
+2004-05-14	filetype:log access.log -CVS	Files Containing Juicy Info	anonymous
+2004-05-13	intitle:"index of" mysql.conf OR mysql_config	Files Containing Juicy Info	anonymous
+2004-05-13	filetype:lic lic intext:key	Files Containing Juicy Info	anonymous
+2004-05-12	filetype:eml eml +intext:"Subject" +intext:"From"	Files Containing Juicy Info	anonymous
+2004-05-11	filetype:mbx mbx intext:Subject	Files Containing Juicy Info	anonymous
+2004-05-10	filetype:wab wab	Files Containing Juicy Info	anonymous
+2004-05-06	"HTTP_FROM=googlebot" googlebot.com "Server_Software="	Files Containing Juicy Info	anonymous
+2004-05-06	"Request Details" "Control Tree" "Server Variables"	Files Containing Juicy Info	anonymous
+2004-05-05	filetype:conf inurl:firewall -intitle:cvs	Files Containing Juicy Info	anonymous
+2004-05-04	inurl:"smb.conf" intext:"workgroup" filetype:conf	Files Containing Juicy Info	anonymous
+2004-05-03	inurl:tdbin	Files Containing Juicy Info	anonymous
+2004-05-03	intext:"Tobias Oetiker" "traffic analysis"	Files Containing Juicy Info	anonymous
+2004-04-28	inurl:server-info "Apache Server Information"	Files Containing Juicy Info	anonymous
+2004-04-28	inurl:perl/printenv	Files Containing Juicy Info	anonymous
+2004-04-28	inurl:cgi-bin/printenv	Files Containing Juicy Info	anonymous
+2004-04-28	inurl:fcgi-bin/echo	Files Containing Juicy Info	anonymous
+2004-04-26	inurl:server-status "apache"	Files Containing Juicy Info	anonymous
+2004-04-21	"This is a Shareaza Node"	Files Containing Juicy Info	anonymous
+2004-04-21	"Running in Child mode"	Files Containing Juicy Info	anonymous
+2004-04-20	allinurl:/examples/jsp/snp/snoop.jsp	Files Containing Juicy Info	anonymous
+2004-04-20	allinurl:servlet/SnoopServlet	Files Containing Juicy Info	anonymous
+2004-04-16	inurl:"newsletter/admin/" intitle:"newsletter admin"	Files Containing Juicy Info	anonymous
+2004-04-16	inurl:"newsletter/admin/"	Files Containing Juicy Info	anonymous
+2004-04-13	"Index of" / "chat/logs"	Files Containing Juicy Info	anonymous
+2004-04-08	inurl:vbstats.php "page generated"	Files Containing Juicy Info	anonymous
+2004-04-05	intitle:index.of inbox dbx	Files Containing Juicy Info	anonymous
+2004-04-05	intitle:index.of inbox	Files Containing Juicy Info	anonymous
+2004-04-05	"#mysql dump" filetype:sql	Files Containing Juicy Info	anonymous
+2004-04-05	intitle:index.of inbox dbx	Files Containing Juicy Info	anonymous
+2004-03-30	"Host Vulnerability Summary Report"	Files Containing Juicy Info	anonymous
+2004-03-30	"Network Vulnerability Assessment Report"	Files Containing Juicy Info	anonymous
+2004-03-29	"not for distribution" confidential	Files Containing Juicy Info	anonymous
+2004-03-29	"Thank you for your order" +receipt	Files Containing Juicy Info	anonymous
+2004-03-24	inurl:changepassword.asp	Files Containing Juicy Info	anonymous
+2004-03-22	"Most Submitted Forms and Scripts" "this section"	Files Containing Juicy Info	anonymous
+2004-03-16	inurl:admin filetype:xls	Files Containing Juicy Info	anonymous
+2004-03-14	inurl:admin intitle:login	Files Containing Juicy Info	anonymous
+2004-03-14	intitle:admin intitle:login	Files Containing Juicy Info	anonymous
+2004-03-04	"robots.txt" "Disallow:" filetype:txt	Files Containing Juicy Info	anonymous
+2004-03-04	intitle:"statistics of" "advanced web statistics"	Files Containing Juicy Info	anonymous
+2004-03-04	intitle:"Usage Statistics for" "Generated by Webalizer"	Files Containing Juicy Info	anonymous
+2004-03-04	"# phpMyAdmin MySQL-Dump" filetype:txt	Files Containing Juicy Info	anonymous
+2004-03-04	inurl:ipsec.conf -intitle:manpage	Files Containing Juicy Info	anonymous
+2004-03-04	"# phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"	Files Containing Juicy Info	anonymous
+2004-03-04	inurl:ipsec.secrets "holds shared secrets"	Files Containing Juicy Info	anonymous
+2004-03-04	inurl:ipsec.secrets -history -bugs	Files Containing Juicy Info	anonymous
+2004-03-04	inurl:cgiirc.config	Files Containing Juicy Info	anonymous
+2004-03-04	intitle:index.of cgiirc.config	Files Containing Juicy Info	anonymous
+2004-03-04	"phpMyAdmin" "running on" inurl:"main.php"	Files Containing Juicy Info	anonymous
+2004-03-04	inurl:main.php phpMyAdmin	Files Containing Juicy Info	anonymous
+2004-03-04	intitle:index.of ws_ftp.ini	Files Containing Juicy Info	anonymous
+2004-03-04	intitle:index.of dead.letter	Files Containing Juicy Info	anonymous
+2004-03-04	intitle:index.of "Apache" "server at"	Files Containing Juicy Info	anonymous
+2004-03-04	intitle:"wbem" compaq login "Compaq Information Technologies Group"	Files Containing Juicy Info	anonymous
+2004-03-04	inurl:main.php Welcome to phpMyAdmin	Files Containing Juicy Info	anonymous
+2003-08-19	intitle:index.of mystuff.xml	Files Containing Juicy Info	anonymous
+2003-07-10	site:edu admin grades	Files Containing Juicy Info	anonymous
+2003-06-30	intitle:index.of haccess.ctl	Files Containing Juicy Info	anonymous
+2003-06-30	"This summary was generated by wwwstat"	Files Containing Juicy Info	anonymous
+2003-06-30	filetype:ctl Basic	Files Containing Juicy Info	anonymous
+2003-06-30	"These statistics were produced by getstats"	Files Containing Juicy Info	anonymous
+2003-06-27	intitle:index.of robots.txt	Files Containing Juicy Info	anonymous
+2003-06-27	"This report was generated by WebLog"	Files Containing Juicy Info	anonymous
+2003-06-24	"cacheserverreport for" "This analysis was produced by calamaris"	Files Containing Juicy Info	anonymous
+2003-06-24	intitle:index.of finances.xls	Files Containing Juicy Info	anonymous
+2003-06-24	intitle:index.of mt-db-pass.cgi	Files Containing Juicy Info	anonymous
+2003-06-24	buddylist.blt	Files Containing Juicy Info	anonymous
+2003-06-24	intitle:"Ganglia" "Cluster Report for"	Files Containing Juicy Info	anonymous
+2003-06-24	"# Dumping data for table"	Files Containing Juicy Info	anonymous
+2003-06-24	intitle:"Index of" dbconvert.exe chats	Files Containing Juicy Info	anonymous
+2003-06-24	intitle:"Index of" finance.xls	Files Containing Juicy Info	anonymous
